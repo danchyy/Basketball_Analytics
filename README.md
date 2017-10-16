@@ -3,7 +3,7 @@ Repository which contains various scripts and its appropriate data from Kaggle d
 
 All code is written in Python using the Jupyter Notebooks which allow live preview of the images and thus making it nice and easy to analyze and visualize data.
 
-As I am a big basketball fan, most of the scripts will be focusing on the
+As I am a big basketball fan, most of the scripts will be focusing on the statistics revolving around NBA and basketball in general.
 
 Current mini "projects":
 

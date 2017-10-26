@@ -29,7 +29,7 @@ Current mini "projects":
 	
 * Swarmplot of rookie stats for their first regular game in 2017-18 nba season, as well as comparison of Ben Simmons' and Markelle Fultz' debut with other first round picks
 
-	* [Notebook]  (https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/young_players_40_point_breaktrough/comparison_of_young_players_season.ipynb) which takes at look at previously described tasks.
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/young_players_40_point_breaktrough/comparison_of_young_players_season.ipynb) which takes at look at previously described tasks.
 	
 * Inspired by Aaron Gordon's first 40 point game, I took a look at how other young players his age, or younger, improved during their first 40 point game (only the ones which aren't rookies)
 

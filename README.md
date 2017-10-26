@@ -1,9 +1,8 @@
-# ML-and-DS
-Repository which contains various scripts and its appropriate data from Kaggle datasets and competitions as well as from datasets found around the Web. 
+# Basketball Analytics
+
+This repository and scripts in it will be focusing on the statistics revolving around NBA and basketball in general.
 
 All code is written in Python using the Jupyter Notebooks which allow live preview of the images and thus making it nice and easy to analyze and visualize data.
-
-As I am a big basketball fan, most of the scripts will be focusing on the statistics revolving around NBA and basketball in general.
 
 Current mini "projects":
 
@@ -27,3 +26,11 @@ Current mini "projects":
 	* [Notebook](https://github.com/danchyy/ML-and-DS/blob/master/Scripts/nba_players_stats/Nba_players.ipynb) which runs through some regular and advanced stats from last season as well as from previous seasons
 
 	* [Images](https://github.com/danchyy/ML-and-DS/tree/master/Scripts/nba_players_stats/images) which are results of previous notebook
+	
+* Swarmplot of rookie stats for their first regular game in 2017-18 nba season, as well as comparison of Ben Simmons' and Markelle Fultz' debut with other first round picks
+
+	* [Notebook]  (https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/young_players_40_point_breaktrough/comparison_of_young_players_season.ipynb) which takes at look at previously described tasks.
+	
+* Inspired by Aaron Gordon's first 40 point game, I took a look at how other young players his age, or younger, improved during their first 40 point game (only the ones which aren't rookies)
+
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/young_players_40_point_breaktrough/comparison_of_young_players_season.ipynb) Which visualizes players improvement in points per game during the season in which they scored 40 points or more.

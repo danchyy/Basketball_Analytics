@@ -34,3 +34,7 @@ Current mini "projects":
 * Inspired by Aaron Gordon's first 40 point game, I took a look at how other young players his age, or younger, improved during their first 40 point game (only the ones which aren't rookies)
 
 	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/young_players_40_point_breaktrough/comparison_of_young_players_season.ipynb) Which visualizes players improvement in points per game during the season in which they scored 40 points or more.
+	
+* A look at Russell Westbrook's 2016-17 season in which he won MVP award and averaged triple double.
+
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/westbrook_2016_17/visualization_Westbrook_triple_double_chase.ipynb) with some charts displaying Westbrook's averages through season.

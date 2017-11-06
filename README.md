@@ -38,3 +38,11 @@ Current mini "projects":
 * A look at Russell Westbrook's 2016-17 season in which he won MVP award and averaged triple double.
 
 	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/westbrook_2016_17/visualization_Westbrook_triple_double_chase.ipynb) with some charts displaying Westbrook's averages through season.
+	
+* Radar plot for Russell Westbrook and Kyrie Irving to view how they adapted to newly added teammates (Westbrook) and new team (for Kyrie).
+
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/radar_plot/Radar_plot.ipynb) with radar plots showing how they changed their scoring habits.
+	
+* Analysis of Players of the week/month in the NBA
+
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/players_of_the_week/week_2/oladipo_cousins_week2.ipynb) for week two.

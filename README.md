@@ -39,9 +39,11 @@ Current mini "projects":
 
 	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/westbrook_2016_17/visualization_Westbrook_triple_double_chase.ipynb) with some charts displaying Westbrook's averages through season.
 	
-* Radar plot for Russell Westbrook and Kyrie Irving to view how they adapted to newly added teammates (Westbrook) and new team (for Kyrie).
+* Radar plots which describe player's style.
 
-	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/radar_plot/Radar_plot.ipynb) with radar plots showing how they changed their scoring habits.
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/radar_plot/Radar_plot.ipynb) with radar plots showing for Russell Westbrook and Kyrie Irving to view how they adapted to newly added teammates (Westbrook) and new team (for Kyrie).
+	
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/radar_plot/Stephen_Curry.ipynb) which shows how Stephen Curry changed his scoring coming from 2015-16 MVP season to 2016-17 season and addition of Kevin Durant.
 	
 * Analysis of Players of the week/month in the NBA
 

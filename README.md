@@ -48,3 +48,9 @@ Current mini "projects":
 * Analysis of Players of the week/month in the NBA
 
 	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/players_of_the_week/week_2/oladipo_cousins_week2.ipynb) for week two.
+	
+* James Harden's chase for three point heights
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/three_point_race/Harden_comparison.ipynb) where I show the pace of James Harden's three point shooting.
+
+* Free throw improvement for some centers
+	* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/free_throw_comp/free_throw_centers.ipynb) where improvements for some of the players like Clint Capela and Andre Drummond can be seen in comparison to last season

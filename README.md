@@ -51,6 +51,9 @@ Current mini "projects":
 	
 * James Harden's chase for three point heights
 	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/three_point_race/Harden_comparison.ipynb) where I show the pace of James Harden's three point shooting.
+	
+* Stephen Curry's chase for three point record
+	* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/three_point_race/curry_record.ipynb) where Stephen Curry's progress in total three pointers made through career games in comparison with other top shooters
 
 * Free throw improvement for some centers
 	* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/free_throw_comp/free_throw_centers.ipynb) where improvements for some of the players like Clint Capela and Andre Drummond can be seen in comparison to last season

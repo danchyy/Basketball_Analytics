@@ -57,3 +57,6 @@ Current mini "projects":
 
 * Free throw improvement for some centers
 	* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/free_throw_comp/free_throw_centers.ipynb) where improvements for some of the players like Clint Capela and Andre Drummond can be seen in comparison to last season
+	
+* Most improved three point shooters
+	* I analyzed which were the most improved three point shooters up to this point in season in this [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/three_point_improvement/three_point_improvement.ipynb)

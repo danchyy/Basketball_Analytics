@@ -60,3 +60,6 @@ Current mini "projects":
 	
 * Most improved three point shooters
 	* I analyzed which were the most improved three point shooters up to this point in season in this [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/three_point_improvement/three_point_improvement.ipynb)
+	
+* Fourth quarter scoring thus far
+	* LeBron James has by far the most points thus far in current season, that can be seen [here](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/fourth_quarter_ot_scoring/best_scorers_late.ipynb)

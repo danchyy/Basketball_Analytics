@@ -63,3 +63,10 @@ Current mini "projects":
 	
 * Fourth quarter scoring thus far
 	* LeBron James has by far the most points thus far in current season, that can be seen [here](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/fourth_quarter_ot_scoring/best_scorers_late.ipynb)
+	
+	
+## 2018-19 Season
+
+* Best clutch scorers thus far
+
+	* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/clutch_players/ClutchStats.ipynb) which shows players that excel in the clutch.

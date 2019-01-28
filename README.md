@@ -70,3 +70,5 @@ Current mini "projects":
 * Best clutch scorers thus far
 
 	* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/clutch_players/ClutchStats.ipynb) which shows players that excel in the clutch.
+	
+	* Big Luka Dončić analysis, [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/doncic_analysis/doncic_analysis.ipynb)

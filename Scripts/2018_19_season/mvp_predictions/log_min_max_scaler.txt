@@ -1,0 +1,78 @@
+INFO:root:Starting with estimator: SVR
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0726, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0713, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0632, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0706, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0725, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0453, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0382, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0355, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0713, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0632, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0725, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0453, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0588, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0705, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0466, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0414, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0454, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0632, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0453, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0706, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0466, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0382, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0578, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0550, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0594, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0645, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0453, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0725, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0466, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0588, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0725, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0551, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0414, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0355, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0869, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.1575, with scale: True
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.1639, with scale: True
+INFO:root:Params: {'kernel': 'linear', 'C': 0.1}, MSE over all splits is: 0.0466, with scale: True
+INFO:root:Params: {'kernel': 'linear', 'C': 1}, MSE over all splits is: 0.0551, with scale: True
+INFO:root:Params: {'kernel': 'linear', 'C': 10}, MSE over all splits is: 0.0870, with scale: True
+INFO:root:Params: {'kernel': 'linear', 'C': 100}, MSE over all splits is: 0.1074, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 1e-05}, MSE over all splits is: 0.0727, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.0001}, MSE over all splits is: 0.0724, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.001}, MSE over all splits is: 0.0701, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.01}, MSE over all splits is: 0.0577, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.1}, MSE over all splits is: 0.0405, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 1e-05}, MSE over all splits is: 0.0724, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.0001}, MSE over all splits is: 0.0701, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.001}, MSE over all splits is: 0.0575, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.01}, MSE over all splits is: 0.0439, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.1}, MSE over all splits is: 0.0432, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 1e-05}, MSE over all splits is: 0.0701, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.0001}, MSE over all splits is: 0.0575, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.001}, MSE over all splits is: 0.0448, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.01}, MSE over all splits is: 0.0418, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.1}, MSE over all splits is: 0.0907, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 1e-05}, MSE over all splits is: 0.0632, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.0001}, MSE over all splits is: 0.0453, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.001}, MSE over all splits is: 0.0462, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.01}, MSE over all splits is: 0.0662, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.1}, MSE over all splits is: 0.1481, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 1e-05}, MSE over all splits is: 0.0575, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.0001}, MSE over all splits is: 0.0449, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.001}, MSE over all splits is: 0.0465, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.01}, MSE over all splits is: 0.0867, with scale: True
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.1}, MSE over all splits is: 0.1744, with scale: True

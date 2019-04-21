@@ -1,0 +1,20 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 1.8343, with scale: False
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 1.2918, with scale: False
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.1037, with scale: False
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0688, with scale: False
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0587, with scale: False
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0549, with scale: False
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0510, with scale: False
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0460, with scale: False
+INFO:root:Params: {'alpha': 1000.0}, MSE over all splits is: 0.0427, with scale: False
+INFO:root:Params: {'alpha': 5000.0}, MSE over all splits is: 0.0375, with scale: False
+INFO:root:Params: {'alpha': 10000.0}, MSE over all splits is: 0.0360, with scale: False
+INFO:root:Params: {'alpha': 50000.0}, MSE over all splits is: 0.0334, with scale: False
+INFO:root:Params: {'alpha': 100000.0}, MSE over all splits is: 0.0328, with scale: False
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0361, with scale: False
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0377, with scale: False
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0403, with scale: False
+INFO:root:Params: {'alpha': 0.1}, MSE over all splits is: 0.0309, with scale: False

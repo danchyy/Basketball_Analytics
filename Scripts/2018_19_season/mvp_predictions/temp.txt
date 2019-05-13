@@ -1,0 +1,5 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0402, Mean acc at 5: 0.2947, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0451, Mean acc at 5: 0.2368, Mean acc at 1: 0.6053
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0270, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316

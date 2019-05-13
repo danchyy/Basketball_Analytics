@@ -1,0 +1,18 @@
+INFO:root:Starting with estimator: RandomForestClassifier
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 2, 'n_jobs': -1}, MSE over all splits is: 0.1711, Mean acc at 5: 0.1947, Mean acc at 1: 0.4737
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 3, 'n_jobs': -1}, MSE over all splits is: 0.2079, Mean acc at 5: 0.2684, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 2, 'n_jobs': -1}, MSE over all splits is: 0.2079, Mean acc at 5: 0.2316, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 3, 'n_jobs': -1}, MSE over all splits is: 0.2184, Mean acc at 5: 0.2684, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 2, 'n_jobs': -1}, MSE over all splits is: 0.2237, Mean acc at 5: 0.2632, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 3, 'n_jobs': -1}, MSE over all splits is: 0.2289, Mean acc at 5: 0.2632, Mean acc at 1: 0.6579
+INFO:root:Starting with estimator: SVC
+INFO:root:Params: {'C': 0.001, 'gamma': 0.0001, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.001, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.01, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.1, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 1.0, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.0001, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.001, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.01, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.1, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 1.0, 'probability': True}, MSE over all splits is: 0.0000, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000

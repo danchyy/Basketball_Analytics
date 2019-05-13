@@ -1,0 +1,21 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0367, Mean acc: 0.5526
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0367, Mean acc: 0.5526
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0371, Mean acc: 0.5789
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0377, Mean acc: 0.5789
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0377, Mean acc: 0.5789
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0377, Mean acc: 0.5789
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0377, Mean acc: 0.5789
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0378, Mean acc: 0.6053
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0693, Mean acc: 0.0000
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0693, Mean acc: 0.0000
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693, Mean acc: 0.0000
+INFO:root:Starting with estimator: MLPRegressor
+INFO:root:Params: {'hidden_layer_sizes': 100, 'max_iter': 500, 'learning_rate': 'adaptive'}, MSE over all splits is: 0.0417, Mean acc: 0.5526
+INFO:root:Params: {'hidden_layer_sizes': (10, 10), 'max_iter': 500, 'learning_rate': 'adaptive'}, MSE over all splits is: 0.0508, Mean acc: 0.3684
+INFO:root:Params: {'hidden_layer_sizes': (100, 100), 'max_iter': 500, 'learning_rate': 'adaptive'}, MSE over all splits is: 0.0383, Mean acc: 0.5789
+INFO:root:Params: {'hidden_layer_sizes': (100, 100, 100), 'max_iter': 500, 'learning_rate': 'adaptive'}, MSE over all splits is: 0.0384, Mean acc: 0.6316
+INFO:root:Params: {'hidden_layer_sizes': (200, 200, 500), 'max_iter': 500, 'learning_rate': 'adaptive'}, MSE over all splits is: 0.0339, Mean acc: 0.5789
+INFO:root:Params: {'hidden_layer_sizes': 1000, 'max_iter': 500, 'learning_rate': 'adaptive'}, MSE over all splits is: 0.0376, Mean acc: 0.5526

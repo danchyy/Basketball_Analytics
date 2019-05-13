@@ -1,0 +1,35 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0482
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0750
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0418
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0418
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0421
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0425
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0430
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0439
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0477
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0573
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693
+INFO:root:Starting with estimator: SVR
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 1e-05}, MSE over all splits is: 0.0499
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.0001}, MSE over all splits is: 0.0529
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.001}, MSE over all splits is: 0.0652
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.01}, MSE over all splits is: 0.0694
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.1}, MSE over all splits is: 0.0696
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 1e-05}, MSE over all splits is: 0.0488
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.0001}, MSE over all splits is: 0.0552
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.001}, MSE over all splits is: 0.0681
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.01}, MSE over all splits is: 0.0706
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.1}, MSE over all splits is: 0.0711
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 1e-05}, MSE over all splits is: 0.0487
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.0001}, MSE over all splits is: 0.0712
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.001}, MSE over all splits is: 0.0690
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.01}, MSE over all splits is: 0.0706
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.1}, MSE over all splits is: 0.0711
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 1e-05}, MSE over all splits is: 0.0518
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.0001}, MSE over all splits is: 0.0981
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.001}, MSE over all splits is: 0.0690
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.01}, MSE over all splits is: 0.0706
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.1}, MSE over all splits is: 0.0711

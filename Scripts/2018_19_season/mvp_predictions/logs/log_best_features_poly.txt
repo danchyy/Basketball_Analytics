@@ -1,0 +1,6 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0484
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0379
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0312
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0309

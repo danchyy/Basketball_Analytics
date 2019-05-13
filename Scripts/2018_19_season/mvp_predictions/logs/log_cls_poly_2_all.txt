@@ -1,0 +1,7 @@
+INFO:root:Starting with estimator: LogisticRegression
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.001, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2079, Mean acc at 5: 0.2211, Mean acc at 1: 0.5263
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.001, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2079, Mean acc at 5: 0.2421, Mean acc at 1: 0.5526
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.01, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2474, Mean acc at 5: 0.2526, Mean acc at 1: 0.5789
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.01, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2395, Mean acc at 5: 0.2579, Mean acc at 1: 0.5789
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.1, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2105, Mean acc at 5: 0.2316, Mean acc at 1: 0.5789
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.1, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2079, Mean acc at 5: 0.2316, Mean acc at 1: 0.6053

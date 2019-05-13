@@ -1,0 +1,92 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.8364
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.9486
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0679
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0539
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0470
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0435
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0411
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0435
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0693
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0693
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693
+INFO:root:Starting with estimator: SVR
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0719
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0659
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0724
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0453
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0532
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0653
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0403
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0593
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0857
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0659
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0727
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0453
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0696
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0727
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0403
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0378
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0388
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0505
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0782
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0953
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0453
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0724
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0403
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0532
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0719
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0505
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0594
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0562
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0658
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0842
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.1263
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0403
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0696
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0505
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0378
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0653
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0658
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0782
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0857
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0904
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.1608
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.2618
+INFO:root:Params: {'kernel': 'linear', 'C': 0.1}, MSE over all splits is: 0.0505
+INFO:root:Params: {'kernel': 'linear', 'C': 1}, MSE over all splits is: 0.0658
+INFO:root:Params: {'kernel': 'linear', 'C': 10}, MSE over all splits is: 0.0906
+INFO:root:Params: {'kernel': 'linear', 'C': 100}, MSE over all splits is: 0.2563
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 1e-05}, MSE over all splits is: 0.0726
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.0001}, MSE over all splits is: 0.0711
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.001}, MSE over all splits is: 0.0615
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.01}, MSE over all splits is: 0.0401
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.1}, MSE over all splits is: 0.0455
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 1e-05}, MSE over all splits is: 0.0711
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.0001}, MSE over all splits is: 0.0614
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.001}, MSE over all splits is: 0.0394
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.01}, MSE over all splits is: 0.0447
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.1}, MSE over all splits is: 0.0596
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 1e-05}, MSE over all splits is: 0.0614
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.0001}, MSE over all splits is: 0.0393
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.001}, MSE over all splits is: 0.0421
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.01}, MSE over all splits is: 0.0657
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.1}, MSE over all splits is: 0.0657
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 1e-05}, MSE over all splits is: 0.0453
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.0001}, MSE over all splits is: 0.0403
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.001}, MSE over all splits is: 0.0521
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.01}, MSE over all splits is: 0.0832
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.1}, MSE over all splits is: 0.0901
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 1e-05}, MSE over all splits is: 0.0393
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.0001}, MSE over all splits is: 0.0417
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.001}, MSE over all splits is: 0.0553
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.01}, MSE over all splits is: 0.0856
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.1}, MSE over all splits is: 0.1228

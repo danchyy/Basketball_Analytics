@@ -1,0 +1,59 @@
+INFO:root:Starting with estimator: LogisticRegression
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.001, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6632, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.001, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6632, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.01, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6632, Mean acc at 5: 0.3105, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.01, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6632, Mean acc at 5: 0.3105, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.1, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6873, Mean acc at 5: 0.3368, Mean acc at 1: 0.6316
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.1, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6873, Mean acc at 5: 0.3368, Mean acc at 1: 0.6316
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 1.0, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.7509, Mean acc at 5: 0.3421, Mean acc at 1: 0.7105
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 1.0, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.7509, Mean acc at 5: 0.3421, Mean acc at 1: 0.7105
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 10.0, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.7127, Mean acc at 5: 0.2895, Mean acc at 1: 0.6579
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 10.0, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.7127, Mean acc at 5: 0.2895, Mean acc at 1: 0.6579
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 100.0, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6930, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 100.0, 'n_jobs': -1, 'max_iter': 2000}, MRR top 5 is: 0.6930, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Starting with estimator: RandomForestClassifier
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 2, 'n_jobs': -1}, MRR top 5 is: 0.6706, Mean acc at 5: 0.2368, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 3, 'n_jobs': -1}, MRR top 5 is: 0.6404, Mean acc at 5: 0.2211, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 2, 'n_jobs': -1}, MRR top 5 is: 0.7254, Mean acc at 5: 0.2895, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 3, 'n_jobs': -1}, MRR top 5 is: 0.7522, Mean acc at 5: 0.3211, Mean acc at 1: 0.7105
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 2, 'n_jobs': -1}, MRR top 5 is: 0.6719, Mean acc at 5: 0.2474, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 3, 'n_jobs': -1}, MRR top 5 is: 0.6798, Mean acc at 5: 0.2632, Mean acc at 1: 0.6316
+INFO:root:Starting with estimator: GradientBoostingClassifier
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.1, 'subsample': 0.5}, MRR top 5 is: 0.6754, Mean acc at 5: 0.3211, Mean acc at 1: 0.5526
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.1, 'subsample': 1.0}, MRR top 5 is: 0.6754, Mean acc at 5: 0.2368, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.01, 'subsample': 0.5}, MRR top 5 is: 0.6917, Mean acc at 5: 0.2316, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.01, 'subsample': 1.0}, MRR top 5 is: 0.6623, Mean acc at 5: 0.2000, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.001, 'subsample': 0.5}, MRR top 5 is: 0.7061, Mean acc at 5: 0.2789, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.001, 'subsample': 1.0}, MRR top 5 is: 0.6338, Mean acc at 5: 0.2316, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.0001, 'subsample': 0.5}, MRR top 5 is: 0.6667, Mean acc at 5: 0.2632, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.0001, 'subsample': 1.0}, MRR top 5 is: 0.6096, Mean acc at 5: 0.2421, Mean acc at 1: 0.5263
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.1, 'subsample': 0.5}, MRR top 5 is: 0.7627, Mean acc at 5: 0.3263, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.1, 'subsample': 1.0}, MRR top 5 is: 0.6829, Mean acc at 5: 0.3053, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.01, 'subsample': 0.5}, MRR top 5 is: 0.6610, Mean acc at 5: 0.2737, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.01, 'subsample': 1.0}, MRR top 5 is: 0.6864, Mean acc at 5: 0.2895, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.001, 'subsample': 0.5}, MRR top 5 is: 0.7193, Mean acc at 5: 0.2842, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.001, 'subsample': 1.0}, MRR top 5 is: 0.6675, Mean acc at 5: 0.2737, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.0001, 'subsample': 0.5}, MRR top 5 is: 0.6996, Mean acc at 5: 0.3053, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.0001, 'subsample': 1.0}, MRR top 5 is: 0.6382, Mean acc at 5: 0.2316, Mean acc at 1: 0.5526
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1, 'subsample': 0.5}, MRR top 5 is: 0.6640, Mean acc at 5: 0.2684, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1, 'subsample': 1.0}, MRR top 5 is: 0.6982, Mean acc at 5: 0.2737, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01, 'subsample': 0.5}, MRR top 5 is: 0.7114, Mean acc at 5: 0.3211, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01, 'subsample': 1.0}, MRR top 5 is: 0.7136, Mean acc at 5: 0.2947, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001, 'subsample': 0.5}, MRR top 5 is: 0.7083, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001, 'subsample': 1.0}, MRR top 5 is: 0.6895, Mean acc at 5: 0.2421, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.0001, 'subsample': 0.5}, MRR top 5 is: 0.7232, Mean acc at 5: 0.3053, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.0001, 'subsample': 1.0}, MRR top 5 is: 0.6294, Mean acc at 5: 0.2316, Mean acc at 1: 0.5526
+INFO:root:Starting with estimator: SVC
+INFO:root:Params: {'C': 0.001, 'gamma': 0.0001, 'probability': True}, MRR top 5 is: 0.0421, Mean acc at 5: 0.0421, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.001, 'probability': True}, MRR top 5 is: 0.0368, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.01, 'probability': True}, MRR top 5 is: 0.0368, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.1, 'probability': True}, MRR top 5 is: 0.0500, Mean acc at 5: 0.0474, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 1.0, 'probability': True}, MRR top 5 is: 0.0579, Mean acc at 5: 0.0526, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.0001, 'probability': True}, MRR top 5 is: 0.0316, Mean acc at 5: 0.0316, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.001, 'probability': True}, MRR top 5 is: 0.0421, Mean acc at 5: 0.0421, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.01, 'probability': True}, MRR top 5 is: 0.0368, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.1, 'probability': True}, MRR top 5 is: 0.0539, Mean acc at 5: 0.0526, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 1.0, 'probability': True}, MRR top 5 is: 0.0873, Mean acc at 5: 0.0737, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.0001, 'probability': True}, MRR top 5 is: 0.0421, Mean acc at 5: 0.0421, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.001, 'probability': True}, MRR top 5 is: 0.0263, Mean acc at 5: 0.0263, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.01, 'probability': True}, MRR top 5 is: 0.0487, Mean acc at 5: 0.0474, Mean acc at 1: 0.0000

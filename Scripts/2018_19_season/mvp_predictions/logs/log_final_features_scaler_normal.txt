@@ -1,0 +1,92 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0527, Mean acc at 5: 0.3158, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0527, Mean acc at 5: 0.3158, Mean acc at 1: 0.6842
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0486, Mean acc at 5: 0.3263, Mean acc at 1: 0.6842
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0383, Mean acc at 5: 0.3263, Mean acc at 1: 0.6579
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0385, Mean acc at 5: 0.3263, Mean acc at 1: 0.6316
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0451, Mean acc at 5: 0.3105, Mean acc at 1: 0.6053
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0530, Mean acc at 5: 0.3105, Mean acc at 1: 0.6053
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0613, Mean acc at 5: 0.2947, Mean acc at 1: 0.6053
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0693, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0693, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Starting with estimator: SVR
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0727, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0716, Mean acc at 5: 0.3158, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0645, Mean acc at 5: 0.3421, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0717, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0727, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0410, Mean acc at 5: 0.3474, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0383, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 0.1, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0432, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0716, Mean acc at 5: 0.3158, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0645, Mean acc at 5: 0.3421, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0727, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0410, Mean acc at 5: 0.3474, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0645, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0721, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0366, Mean acc at 5: 0.3474, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0353, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 1, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0387, Mean acc at 5: 0.2895, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0645, Mean acc at 5: 0.3421, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0410, Mean acc at 5: 0.3474, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0717, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0366, Mean acc at 5: 0.3474, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0383, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0674, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0409, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0501, Mean acc at 5: 0.3158, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 10, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0662, Mean acc at 5: 0.3368, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 1}, MSE over all splits is: 0.0410, Mean acc at 5: 0.3474, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 2}, MSE over all splits is: 0.0727, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.0001, 'degree': 3}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 1}, MSE over all splits is: 0.0366, Mean acc at 5: 0.3474, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 2}, MSE over all splits is: 0.0645, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.001, 'degree': 3}, MSE over all splits is: 0.0727, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 1}, MSE over all splits is: 0.0409, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 2}, MSE over all splits is: 0.0352, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.01, 'degree': 3}, MSE over all splits is: 0.0432, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 1}, MSE over all splits is: 0.0415, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 2}, MSE over all splits is: 0.0735, Mean acc at 5: 0.3211, Mean acc at 1: 0.7105
+INFO:root:Params: {'kernel': 'poly', 'C': 100, 'gamma': 0.1, 'degree': 3}, MSE over all splits is: 0.0890, Mean acc at 5: 0.3526, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'linear', 'C': 0.1}, MSE over all splits is: 0.0366, Mean acc at 5: 0.3474, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'linear', 'C': 1}, MSE over all splits is: 0.0410, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'linear', 'C': 10}, MSE over all splits is: 0.0415, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'linear', 'C': 100}, MSE over all splits is: 0.0416, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 1e-05}, MSE over all splits is: 0.0728, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.0001}, MSE over all splits is: 0.0725, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.001}, MSE over all splits is: 0.0707, Mean acc at 5: 0.3053, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.01}, MSE over all splits is: 0.0594, Mean acc at 5: 0.3474, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 0.1, 'gamma': 0.1}, MSE over all splits is: 0.0360, Mean acc at 5: 0.3053, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 1e-05}, MSE over all splits is: 0.0725, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.0001}, MSE over all splits is: 0.0707, Mean acc at 5: 0.3053, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.001}, MSE over all splits is: 0.0593, Mean acc at 5: 0.3474, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.01}, MSE over all splits is: 0.0367, Mean acc at 5: 0.3211, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 1, 'gamma': 0.1}, MSE over all splits is: 0.0429, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 1e-05}, MSE over all splits is: 0.0707, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.0001}, MSE over all splits is: 0.0593, Mean acc at 5: 0.3474, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.001}, MSE over all splits is: 0.0369, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.01}, MSE over all splits is: 0.0368, Mean acc at 5: 0.3368, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 10, 'gamma': 0.1}, MSE over all splits is: 0.0879, Mean acc at 5: 0.3316, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 1e-05}, MSE over all splits is: 0.0645, Mean acc at 5: 0.3263, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.0001}, MSE over all splits is: 0.0410, Mean acc at 5: 0.3474, Mean acc at 1: 0.6316
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.001}, MSE over all splits is: 0.0365, Mean acc at 5: 0.3526, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.01}, MSE over all splits is: 0.0442, Mean acc at 5: 0.3474, Mean acc at 1: 0.7105
+INFO:root:Params: {'kernel': 'rbf', 'C': 50, 'gamma': 0.1}, MSE over all splits is: 0.1033, Mean acc at 5: 0.3000, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 1e-05}, MSE over all splits is: 0.0593, Mean acc at 5: 0.3474, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.0001}, MSE over all splits is: 0.0369, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.001}, MSE over all splits is: 0.0379, Mean acc at 5: 0.3368, Mean acc at 1: 0.6842
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.01}, MSE over all splits is: 0.0549, Mean acc at 5: 0.3579, Mean acc at 1: 0.7105
+INFO:root:Params: {'kernel': 'rbf', 'C': 100, 'gamma': 0.1}, MSE over all splits is: 0.1111, Mean acc at 5: 0.2947, Mean acc at 1: 0.6842

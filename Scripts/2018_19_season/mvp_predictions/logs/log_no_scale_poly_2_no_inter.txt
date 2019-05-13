@@ -1,0 +1,26 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0501, with scale: False
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0424, with scale: False
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0312, with scale: False
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0309, with scale: False
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0306, with scale: False
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0306, with scale: False
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0310, with scale: False
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0322, with scale: False
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0395, with scale: False
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0462, with scale: False
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693, with scale: False
+INFO:root:Starting with estimator: RandomForestRegressor
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 2}, MSE over all splits is: 0.0335, with scale: False
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 3}, MSE over all splits is: 0.0336, with scale: False
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 2}, MSE over all splits is: 0.0335, with scale: False
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 3}, MSE over all splits is: 0.0365, with scale: False
+INFO:root:Starting with estimator: GradientBoostingRegressor
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1}, MSE over all splits is: 0.0350, with scale: False
+INFO:root:Params: {'n_estimators': 500, 'learning_rate': 0.01}, MSE over all splits is: 0.0339, with scale: False
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.1}, MSE over all splits is: 0.0357, with scale: False
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01}, MSE over all splits is: 0.0377, with scale: False
+INFO:root:Params: {'n_estimators': 500, 'learning_rate': 0.1}, MSE over all splits is: 0.0355, with scale: False
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001}, MSE over all splits is: 0.0625, with scale: False

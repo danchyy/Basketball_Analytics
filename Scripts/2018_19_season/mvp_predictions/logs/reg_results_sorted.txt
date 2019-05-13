@@ -1,0 +1,604 @@
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 1.0 0.3 0.7105 0.0239 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 1.0 0.3 0.6842 0.0241 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 0.5 0.2947 0.6316 0.0242 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 0.5 0.3105 0.6842 0.0245 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 1.0 0.3 0.7105 0.0247 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 0.5 0.3 0.6579 0.0249 
+poly_3 RandomForestRegressor n_estimators: 50, n_jobs: -1 0.3263 0.6579 0.0249 
+poly_2 RandomForestRegressor n_estimators: 100, n_jobs: -1 0.3158 0.6842 0.0251 
+poly_2 Ridge alpha: 10.0 0.3263 0.6579 0.0252 
+poly_2 RandomForestRegressor n_estimators: 100, n_jobs: -1, min_samples_split: 3 0.3263 0.6316 0.0252 
+poly_2_all RandomForestRegressor n_estimators: 100, n_jobs: -1, min_samples_split: 3 0.3421 0.6842 0.0252 
+poly_2_all RandomForestRegressor n_estimators: 50, n_jobs: -1, min_samples_split: 3 0.3263 0.6842 0.0253 
+poly_2 RandomForestRegressor n_estimators: 200, n_jobs: -1 0.3053 0.6579 0.0254 
+poly_2_all Ridge alpha: 10.0 0.3368 0.6842 0.0254 
+poly_2 Ridge alpha: 1.0 0.3368 0.6579 0.0255 
+poly_2 Ridge alpha: 50.0 0.3158 0.6579 0.0255 
+poly_2_all Ridge alpha: 1.0 0.3 0.6579 0.0256 
+poly_2_all Ridge alpha: 50.0 0.3263 0.6579 0.0256 
+poly_2_all RandomForestRegressor n_estimators: 200, n_jobs: -1, min_samples_split: 3 0.3211 0.6842 0.0256 
+poly_3 RandomForestRegressor n_estimators: 100, n_jobs: -1, min_samples_split: 3 0.3053 0.6316 0.0256 
+poly_2 RandomForestRegressor n_estimators: 200, n_jobs: -1, min_samples_split: 3 0.3421 0.6842 0.0257 
+poly_2_all RandomForestRegressor n_estimators: 100, n_jobs: -1 0.3579 0.6842 0.0257 
+poly_2_all RandomForestRegressor n_estimators: 200, n_jobs: -1 0.2947 0.6579 0.0257 
+poly_3 RandomForestRegressor n_estimators: 200, n_jobs: -1 0.3263 0.6579 0.0257 
+poly_2 Ridge alpha: 100.0 0.3474 0.6842 0.0258 
+poly_3 RandomForestRegressor n_estimators: 50, n_jobs: -1, min_samples_split: 3 0.3158 0.6316 0.0258 
+poly_3 RandomForestRegressor n_estimators: 200, n_jobs: -1, min_samples_split: 3 0.3105 0.6316 0.0258 
+poly_2_all Ridge alpha: 100.0 0.3211 0.6579 0.0259 
+poly_3 RandomForestRegressor n_estimators: 100, n_jobs: -1 0.3158 0.6316 0.0259 
+poly_2 RandomForestRegressor n_estimators: 50, n_jobs: -1, min_samples_split: 3 0.3579 0.6579 0.026 
+poly_2 RandomForestRegressor n_estimators: 50, n_jobs: -1 0.3316 0.7105 0.0261 
+poly_2 Ridge alpha: 200.0 0.3526 0.6579 0.0262 
+poly_2_all Ridge alpha: 200.0 0.3316 0.6579 0.0262 
+poly_2_all RandomForestRegressor n_estimators: 50, n_jobs: -1 0.3053 0.6579 0.0262 
+poly_2 LinearRegression n_jobs: -1, normalize: True 0.3263 0.6579 0.0264 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 1.0 0.3158 0.6842 0.0264 
+poly_2_all Ridge alpha: 500.0 0.3526 0.6579 0.0266 
+poly_2 Ridge alpha: 500.0 0.3474 0.6579 0.0267 
+poly_3 Ridge alpha: 500.0 0.3368 0.6842 0.0271 
+normal RandomForestRegressor n_estimators: 200, n_jobs: -1, min_samples_split: 3 0.2947 0.6579 0.0272 
+normal RandomForestRegressor n_estimators: 100, n_jobs: -1 0.2947 0.6579 0.0275 
+normal RandomForestRegressor n_estimators: 200, n_jobs: -1 0.3105 0.6579 0.0275 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.1, subsample: 0.5 0.3421 0.6842 0.0275 
+poly_3 Ridge alpha: 200.0 0.3421 0.6842 0.0276 
+normal RandomForestRegressor n_estimators: 50, n_jobs: -1 0.3158 0.6842 0.0278 
+poly_2 RandomForestRegressor n_estimators: 10, n_jobs: -1 0.2737 0.5789 0.0279 
+normal RandomForestRegressor n_estimators: 100, n_jobs: -1, min_samples_split: 3 0.3 0.6316 0.0279 
+poly_3 Ridge alpha: 100.0 0.3263 0.6842 0.0279 
+poly_3 Lasso alpha: 1.0 0.3158 0.6316 0.0279 
+poly_3 Ridge alpha: 50.0 0.3263 0.6842 0.0283 
+poly_2_all RandomForestRegressor n_estimators: 10, n_jobs: -1 0.3158 0.6842 0.0286 
+normal RandomForestRegressor n_estimators: 50, n_jobs: -1, min_samples_split: 3 0.2947 0.6316 0.0286 
+normal RandomForestRegressor n_estimators: 10, n_jobs: -1 0.2947 0.6842 0.029 
+poly_3 RandomForestRegressor n_estimators: 10, n_jobs: -1 0.2684 0.6053 0.0292 
+poly_2_all LinearRegression n_jobs: -1 0.3 0.6316 0.0293 
+normal SVR kernel: rbf, C: 100, gamma: 0.001 0.3211 0.5789 0.0296 
+poly_3 Ridge alpha: 10.0 0.3 0.6316 0.0296 
+normal SVR kernel: rbf, C: 50, gamma: 0.001 0.2895 0.5789 0.0297 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 0.5 0.3053 0.6842 0.0304 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 1.0 0.3368 0.7105 0.0305 
+poly_2_all LinearRegression n_jobs: -1, normalize: True 0.3053 0.6842 0.0306 
+normal SVR kernel: rbf, C: 10, gamma: 0.001 0.3 0.5789 0.0307 
+normal SVR kernel: rbf, C: 100, gamma: 0.0001 0.3368 0.5526 0.0308 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 1.0 0.3211 0.7105 0.0311 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 1.0 0.3263 0.7105 0.0312 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 0.5 0.3053 0.6579 0.0313 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.01, degree: 3 0.3 0.6053 0.0316 
+normal SVR kernel: rbf, C: 50, gamma: 0.0001 0.3158 0.5526 0.0318 
+normal SVR kernel: rbf, C: 1, gamma: 0.001 0.2947 0.5789 0.032 
+poly_3 Ridge alpha: 1.0 0.3 0.6316 0.0324 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 0.5 0.3 0.6579 0.0325 
+normal SVR kernel: rbf, C: 1, gamma: 0.01 0.2579 0.5 0.0326 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.01, degree: 2 0.2947 0.6053 0.0332 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.001, degree: 2 0.2947 0.6053 0.0332 
+normal LinearRegression n_jobs: -1 0.3158 0.6842 0.0336 
+normal LinearRegression n_jobs: -1, normalize: True 0.3158 0.6842 0.0336 
+normal SVR kernel: rbf, C: 0.1, gamma: 0.01 0.3105 0.5789 0.0336 
+normal Ridge alpha: 1.0 0.3316 0.7105 0.034 
+poly_3 Lasso alpha: 10.0 0.3105 0.6053 0.0341 
+normal SVR kernel: rbf, C: 10, gamma: 0.0001 0.3368 0.5789 0.0344 
+scaler_poly_2_all SVR kernel: rbf, C: 1, gamma: 0.001 0.3316 0.6316 0.0348 
+scaler_poly_2_all SVR kernel: rbf, C: 10, gamma: 0.0001 0.3316 0.6316 0.0348 
+scaler_poly_2_all SVR kernel: rbf, C: 100, gamma: 1e-05 0.3263 0.6316 0.0348 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 0.5 0.3263 0.7105 0.0349 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.1, subsample: 1.0 0.2895 0.6842 0.0351 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 1 0.3421 0.6316 0.0352 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.01, degree: 1 0.3421 0.6316 0.0352 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.001, degree: 1 0.3421 0.6316 0.0352 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.0001, degree: 1 0.3421 0.6316 0.0352 
+scaler_poly_2 SVR kernel: rbf, C: 50, gamma: 0.0001 0.3421 0.6316 0.0352 
+normal SVR kernel: rbf, C: 10, gamma: 0.01 0.2368 0.5263 0.0352 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.01, degree: 2 0.3316 0.6579 0.0352 
+poly_2 SVR kernel: rbf, C: 1, gamma: 1e-05 0.2474 0.4737 0.0353 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.1, degree: 2 0.3316 0.6579 0.0353 
+poly_2_all Lasso alpha: 1.0 0.3105 0.5526 0.0354 
+scaler_poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.01 0.3158 0.6053 0.0356 
+poly_2 Lasso alpha: 1.0 0.2737 0.5526 0.0358 
+normal Ridge alpha: 10.0 0.3211 0.6053 0.0358 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.01, degree: 3 0.2737 0.5789 0.036 
+scaler_poly_2 SVR kernel: rbf, C: 1, gamma: 0.001 0.3316 0.6316 0.036 
+scaler_poly_2 SVR kernel: rbf, C: 10, gamma: 0.0001 0.3263 0.6316 0.036 
+scaler_poly_2 SVR kernel: rbf, C: 100, gamma: 1e-05 0.3263 0.6316 0.036 
+scaler_normal SVR kernel: rbf, C: 0.1, gamma: 0.1 0.3053 0.6316 0.036 
+poly_2 SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.2684 0.4474 0.0361 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.01, degree: 2 0.2789 0.6053 0.0362 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.001, degree: 2 0.2789 0.6053 0.0362 
+scaler_normal SVR kernel: rbf, C: 50, gamma: 0.001 0.3526 0.6842 0.0365 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.1, degree: 1 0.3474 0.6842 0.0366 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.01, degree: 1 0.3474 0.6842 0.0366 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.001, degree: 1 0.3474 0.6842 0.0366 
+scaler_normal SVR kernel: linear, C: 0.1 0.3474 0.6842 0.0366 
+poly_2 LinearRegression n_jobs: -1 0.3105 0.6579 0.0367 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 1 0.2895 0.6053 0.0367 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.001, degree: 1 0.2895 0.6053 0.0367 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.0001, degree: 1 0.2895 0.6053 0.0367 
+scaler_poly_3 SVR kernel: rbf, C: 50, gamma: 1e-05 0.2895 0.6053 0.0367 
+scaler_normal SVR kernel: rbf, C: 1, gamma: 0.01 0.3211 0.6579 0.0367 
+scaler_poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.01 0.3053 0.6053 0.0368 
+scaler_normal SVR kernel: rbf, C: 10, gamma: 0.01 0.3368 0.6842 0.0368 
+scaler_normal SVR kernel: rbf, C: 10, gamma: 0.001 0.3316 0.6579 0.0369 
+scaler_normal SVR kernel: rbf, C: 100, gamma: 0.0001 0.3316 0.6579 0.0369 
+scaler_poly_2 Ridge alpha: 200.0 0.3053 0.6053 0.0371 
+normal Ridge alpha: 50.0 0.3 0.5789 0.0371 
+scaler_poly_2_all Ridge alpha: 200.0 0.3 0.6053 0.0373 
+normal Ridge alpha: 100.0 0.3105 0.5789 0.0374 
+normal SVR kernel: rbf, C: 0.1, gamma: 0.001 0.2947 0.5263 0.0374 
+normal Ridge alpha: 200.0 0.3105 0.5789 0.0376 
+normal Ridge alpha: 500.0 0.3263 0.6053 0.0377 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 2 0.2789 0.5526 0.0378 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.001, degree: 2 0.2789 0.5526 0.0378 
+poly_2_all SVR kernel: rbf, C: 1, gamma: 1e-05 0.2421 0.5 0.0378 
+normal SVR kernel: rbf, C: 100, gamma: 1e-05 0.2895 0.5526 0.0378 
+scaler_normal SVR kernel: rbf, C: 100, gamma: 0.001 0.3368 0.6842 0.0379 
+poly_2_all SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.2368 0.4737 0.0381 
+scaler_normal Ridge alpha: 10.0 0.3263 0.6579 0.0383 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 2 0.3316 0.6579 0.0383 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.01, degree: 2 0.3316 0.6579 0.0383 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 1 0.3316 0.6316 0.0383 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.01, degree: 1 0.3316 0.6316 0.0383 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.001, degree: 1 0.3316 0.6316 0.0383 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.0001, degree: 1 0.3316 0.6316 0.0383 
+scaler_poly_2 SVR kernel: rbf, C: 100, gamma: 0.0001 0.3421 0.6579 0.0384 
+scaler_poly_2_all SVR kernel: rbf, C: 50, gamma: 0.0001 0.3316 0.6316 0.0384 
+scaler_normal Ridge alpha: 50.0 0.3263 0.6316 0.0385 
+scaler_poly_2 Ridge alpha: 100.0 0.2895 0.6053 0.0386 
+scaler_poly_2 SVR kernel: rbf, C: 10, gamma: 0.001 0.3368 0.6579 0.0387 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.1, degree: 3 0.2895 0.6316 0.0387 
+normal SVR kernel: rbf, C: 50, gamma: 1e-05 0.3105 0.6053 0.0388 
+poly_3 Lasso alpha: 100.0 0.2684 0.5526 0.0393 
+scaler_poly_3 SVR kernel: rbf, C: 1, gamma: 0.001 0.3211 0.6316 0.0395 
+normal SVR kernel: rbf, C: 1, gamma: 0.0001 0.3053 0.5526 0.0395 
+scaler_poly_3 SVR kernel: rbf, C: 10, gamma: 0.0001 0.3263 0.6316 0.0396 
+scaler_poly_3 SVR kernel: rbf, C: 100, gamma: 1e-05 0.3211 0.6316 0.0396 
+scaler_poly_2_all Ridge alpha: 100.0 0.3 0.6316 0.0399 
+scaler_poly_2_all Ridge alpha: 500.0 0.3158 0.6316 0.04 
+poly_2 SVR kernel: rbf, C: 10, gamma: 1e-05 0.2263 0.4737 0.0401 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 3 0.2579 0.5526 0.0405 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.001, degree: 3 0.2579 0.5526 0.0405 
+scaler_poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.01 0.2789 0.5789 0.0408 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.1, degree: 1 0.3421 0.6842 0.0409 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.01, degree: 1 0.3421 0.6842 0.0409 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 1 0.3474 0.6316 0.041 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.01, degree: 1 0.3474 0.6316 0.041 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.001, degree: 1 0.3474 0.6316 0.041 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.0001, degree: 1 0.3474 0.6316 0.041 
+scaler_normal SVR kernel: linear, C: 1 0.3421 0.6842 0.041 
+scaler_normal SVR kernel: rbf, C: 50, gamma: 0.0001 0.3474 0.6316 0.041 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 1 0.3316 0.6316 0.0411 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.001, degree: 1 0.3316 0.6316 0.0411 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.0001, degree: 1 0.3316 0.6316 0.0411 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 1.0 0.2105 0.5526 0.0412 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 1.0 0.2421 0.5526 0.0412 
+scaler_poly_2_all SVR kernel: rbf, C: 50, gamma: 1e-05 0.3368 0.6316 0.0412 
+scaler_poly_2 Ridge alpha: 500.0 0.3053 0.6053 0.0413 
+normal SVR kernel: rbf, C: 10, gamma: 1e-05 0.3105 0.6053 0.0413 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 0.5 0.2632 0.6316 0.0413 
+scaler_poly_2 Ridge alpha: 50.0 0.3368 0.6316 0.0415 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.1, degree: 1 0.3421 0.6842 0.0415 
+scaler_normal SVR kernel: linear, C: 10 0.3421 0.6842 0.0415 
+scaler_normal SVR kernel: linear, C: 100 0.3421 0.6842 0.0416 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 1.0 0.2895 0.6842 0.0417 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 1.0 0.3 0.6842 0.0422 
+scaler_poly_3 Ridge alpha: 500.0 0.2895 0.6053 0.0422 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 1.0 0.3 0.6842 0.0422 
+normal SVR kernel: rbf, C: 50, gamma: 0.01 0.2316 0.5789 0.0422 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 0.5 0.3105 0.6842 0.0424 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 0.5 0.2684 0.6316 0.0425 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 1.0 0.2368 0.5526 0.0425 
+scaler_normal SVR kernel: rbf, C: 1, gamma: 0.1 0.3421 0.6842 0.0429 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 1 0.3368 0.6316 0.0431 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.001, degree: 1 0.3368 0.6316 0.0431 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.0001, degree: 1 0.3368 0.6316 0.0431 
+scaler_poly_2 SVR kernel: rbf, C: 50, gamma: 1e-05 0.3368 0.6316 0.0431 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 3 0.3105 0.6316 0.0432 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.01, degree: 3 0.3105 0.6316 0.0432 
+scaler_poly_2_all SVR kernel: rbf, C: 100, gamma: 0.0001 0.3579 0.6579 0.0435 
+scaler_poly_2_all Ridge alpha: 50.0 0.3474 0.6579 0.044 
+scaler_normal SVR kernel: rbf, C: 50, gamma: 0.01 0.3474 0.7105 0.0442 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 1.0 0.2474 0.5789 0.0443 
+scaler_poly_2 SVR kernel: rbf, C: 1, gamma: 0.01 0.3211 0.6316 0.0449 
+scaler_poly_2_all SVR kernel: rbf, C: 10, gamma: 0.001 0.3526 0.6579 0.0449 
+scaler_normal Ridge alpha: 100.0 0.3105 0.6053 0.0451 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 0.5 0.3421 0.7368 0.0453 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.01, subsample: 1.0 0.3158 0.7105 0.0453 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 1.0 0.2053 0.5 0.0455 
+normal SVR kernel: rbf, C: 1, gamma: 0.1 0.1632 0.4211 0.046 
+scaler_poly_3 SVR kernel: rbf, C: 10, gamma: 1e-05 0.2789 0.5526 0.0463 
+scaler_poly_3 SVR kernel: rbf, C: 1, gamma: 0.0001 0.2789 0.5526 0.0464 
+scaler_poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.001 0.2842 0.5526 0.0468 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 1.0 0.2421 0.5526 0.047 
+scaler_poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.1 0.2737 0.5789 0.0471 
+poly_2_all Lasso alpha: 10.0 0.2526 0.5263 0.0472 
+normal SVR kernel: rbf, C: 10, gamma: 0.1 0.1632 0.3947 0.0473 
+normal SVR kernel: rbf, C: 50, gamma: 0.1 0.1632 0.3947 0.0473 
+normal SVR kernel: rbf, C: 100, gamma: 0.01 0.2211 0.5263 0.0473 
+normal SVR kernel: rbf, C: 100, gamma: 0.1 0.1632 0.3947 0.0473 
+scaler_poly_3 Ridge alpha: 200.0 0.3053 0.6053 0.0475 
+poly_2 Lasso alpha: 10.0 0.2789 0.5263 0.0481 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 2 0.2947 0.6053 0.0481 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.001, degree: 2 0.2947 0.6053 0.0481 
+scaler_normal Ridge alpha: 1.0 0.3263 0.6842 0.0486 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 1.0 0.2105 0.5 0.0491 
+scaler_poly_2 Ridge alpha: 10.0 0.3421 0.6316 0.0495 
+normal SVR kernel: rbf, C: 0.1, gamma: 0.1 0.2211 0.3421 0.05 
+scaler_poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.1 0.2579 0.5263 0.05 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.1, degree: 2 0.3158 0.6842 0.0501 
+poly_2_all SVR kernel: rbf, C: 10, gamma: 1e-05 0.1632 0.4737 0.0506 
+scaler_poly_3 Ridge alpha: 100.0 0.2947 0.6053 0.0514 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.001, degree: 2 0.2526 0.5526 0.0522 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.0001, degree: 2 0.2526 0.5526 0.0522 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 2 0.3 0.5789 0.0523 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.001, degree: 2 0.3 0.5789 0.0523 
+scaler_normal LinearRegression n_jobs: -1 0.3158 0.6842 0.0527 
+scaler_normal LinearRegression n_jobs: -1, normalize: True 0.3158 0.6842 0.0527 
+scaler_normal Ridge alpha: 200.0 0.3105 0.6053 0.053 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 1.0 0.2368 0.6316 0.0538 
+normal SVR kernel: rbf, C: 1, gamma: 1e-05 0.2579 0.5 0.054 
+normal SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.2579 0.5 0.0541 
+poly_2 SVR kernel: rbf, C: 1, gamma: 0.0001 0.1789 0.3684 0.0547 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 1 0.2895 0.5526 0.0547 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.0001, degree: 1 0.2895 0.5526 0.0547 
+scaler_normal SVR kernel: rbf, C: 100, gamma: 0.01 0.3579 0.7105 0.0549 
+poly_2 SVR kernel: rbf, C: 10, gamma: 0.0001 0.1737 0.3684 0.055 
+poly_2 SVR kernel: rbf, C: 50, gamma: 0.0001 0.1737 0.3684 0.055 
+poly_2 SVR kernel: rbf, C: 100, gamma: 0.0001 0.1737 0.3684 0.055 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 0.5 0.1895 0.5263 0.0551 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.001, degree: 3 0.2526 0.5263 0.0553 
+scaler_poly_3 Ridge alpha: 50.0 0.3368 0.6316 0.0556 
+scaler_poly_2_all SVR kernel: rbf, C: 1, gamma: 0.01 0.3368 0.6579 0.0557 
+poly_2 SVR kernel: rbf, C: 50, gamma: 1e-05 0.2158 0.4474 0.0558 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.1, degree: 1 0.3158 0.6579 0.0559 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.01, degree: 1 0.3158 0.6579 0.0559 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.001, degree: 1 0.3158 0.6579 0.0559 
+scaler_poly_2 SVR kernel: linear, C: 0.1 0.3158 0.6579 0.0559 
+scaler_poly_2_all Ridge alpha: 10.0 0.3316 0.6579 0.0563 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 1 0.3421 0.6316 0.0579 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.01, degree: 1 0.3368 0.6316 0.0579 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.001, degree: 1 0.3368 0.6316 0.0579 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.0001, degree: 1 0.3421 0.6316 0.0579 
+poly_2_all SVR kernel: rbf, C: 50, gamma: 1e-05 0.1632 0.4211 0.058 
+poly_2_all SVR kernel: rbf, C: 100, gamma: 1e-05 0.1684 0.4211 0.058 
+scaler_poly_3 SVR kernel: rbf, C: 50, gamma: 0.0001 0.3263 0.6316 0.0586 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 0.5 0.1895 0.5526 0.0588 
+scaler_normal SVR kernel: rbf, C: 1, gamma: 0.001 0.3474 0.6579 0.0593 
+scaler_normal SVR kernel: rbf, C: 10, gamma: 0.0001 0.3474 0.6579 0.0593 
+scaler_normal SVR kernel: rbf, C: 100, gamma: 1e-05 0.3474 0.6579 0.0593 
+scaler_normal SVR kernel: rbf, C: 0.1, gamma: 0.01 0.3474 0.6579 0.0594 
+scaler_poly_2_all SVR kernel: rbf, C: 1, gamma: 0.0001 0.3105 0.6053 0.0598 
+scaler_poly_2_all SVR kernel: rbf, C: 10, gamma: 1e-05 0.3105 0.6053 0.0598 
+scaler_poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.001 0.3 0.6053 0.0599 
+poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.1263 0.1842 0.0602 
+scaler_poly_2 SVR kernel: rbf, C: 50, gamma: 0.001 0.3421 0.6842 0.0602 
+scaler_poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.1 0.2 0.3684 0.0603 
+scaler_poly_2 SVR kernel: rbf, C: 1, gamma: 0.0001 0.3158 0.6053 0.061 
+scaler_poly_2 SVR kernel: rbf, C: 10, gamma: 1e-05 0.3158 0.6053 0.061 
+scaler_poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.001 0.3211 0.6053 0.0611 
+poly_2_all SVR kernel: rbf, C: 1, gamma: 0.0001 0.1684 0.1842 0.0612 
+poly_2_all SVR kernel: rbf, C: 10, gamma: 0.0001 0.1632 0.1842 0.0612 
+poly_2_all SVR kernel: rbf, C: 50, gamma: 0.0001 0.1632 0.1842 0.0612 
+poly_2_all SVR kernel: rbf, C: 100, gamma: 0.0001 0.1632 0.1842 0.0612 
+scaler_normal Ridge alpha: 500.0 0.2947 0.6053 0.0613 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 0.5 0.3211 0.7105 0.0614 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 1.0 0.2368 0.6579 0.0616 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 3 0.2789 0.6053 0.0617 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.001, degree: 3 0.2789 0.6053 0.0617 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 1.0 0.3105 0.7368 0.0618 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 1.0 0.3105 0.7368 0.0618 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 0.5 0.2737 0.6316 0.062 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 0.5 0.2842 0.6316 0.062 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 1.0 0.2684 0.6316 0.0623 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.01, subsample: 0.5 0.3263 0.6842 0.0627 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 1 0.3421 0.6579 0.0645 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.001, degree: 1 0.3421 0.6579 0.0645 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.01, degree: 2 0.3105 0.6316 0.0645 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.0001, degree: 1 0.3421 0.6579 0.0645 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.001, degree: 2 0.3105 0.6316 0.0645 
+scaler_normal SVR kernel: rbf, C: 50, gamma: 1e-05 0.3263 0.6579 0.0645 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 2 0.3316 0.6316 0.0648 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.01, degree: 2 0.3316 0.6316 0.0648 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 1 0.3211 0.6053 0.0648 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.0001, degree: 1 0.3211 0.6053 0.0648 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 3 0.2632 0.5263 0.0651 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.001, degree: 3 0.2632 0.5263 0.0651 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 0.5 0.2684 0.6579 0.0652 
+poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.1474 0.1842 0.0653 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 1.0 0.2211 0.6842 0.0653 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 0.5 0.3158 0.6842 0.0654 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 1.0 0.3053 0.7105 0.0654 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 0.5 0.3263 0.7105 0.0654 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 1.0 0.3053 0.7105 0.0654 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 1 0.2895 0.6053 0.0657 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.0001, degree: 1 0.2895 0.6053 0.0657 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 1.0 0.2632 0.6316 0.0657 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.001, subsample: 0.5 0.3316 0.7105 0.0658 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.1, degree: 3 0.3368 0.6579 0.0662 
+poly_3 LinearRegression n_jobs: -1, normalize: True 0.2947 0.5789 0.0664 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.01, degree: 3 0.2895 0.6053 0.0669 
+scaler_poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.2526 0.5263 0.0672 
+scaler_poly_3 SVR kernel: rbf, C: 1, gamma: 1e-05 0.2579 0.5263 0.0672 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.01, degree: 3 0.3 0.6316 0.0674 
+poly_2 SVR kernel: rbf, C: 100, gamma: 1e-05 0.2 0.4474 0.068 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 0.5 0.3053 0.7368 0.0685 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 1.0 0.3053 0.6842 0.0685 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 0.5 0.2579 0.6579 0.0685 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 1.0 0.3053 0.6842 0.0685 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 0.5 0.3105 0.6316 0.0685 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 1.0 0.2316 0.6842 0.0685 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 0.5 0.3053 0.6842 0.0686 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.001, subsample: 1.0 0.2895 0.6316 0.0686 
+normal SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.2789 0.5 0.0687 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.001, degree: 2 0.2842 0.5789 0.0687 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.0001, degree: 2 0.2842 0.5789 0.0687 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 0.5 0.3053 0.6579 0.0689 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 1.0 0.3 0.6579 0.0689 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 0.5 0.2947 0.6579 0.0689 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 1.0 0.3 0.6579 0.0689 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 1.0 0.2895 0.6316 0.0689 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 0.5 0.2684 0.6316 0.0689 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 1.0 0.2316 0.6842 0.0689 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 0.0001, subsample: 0.5 0.3263 0.6842 0.069 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 0.5 0.2368 0.5 0.0691 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 0.5 0.3053 0.6579 0.0692 
+poly_2 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 1.0 0.3 0.6579 0.0692 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 0.5 0.2947 0.6316 0.0692 
+poly_2_all GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 1.0 0.3 0.6579 0.0692 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 0.5 0.3105 0.6316 0.0692 
+normal GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 1.0 0.2947 0.6316 0.0692 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 0.5 0.3421 0.7105 0.0692 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 0.0001, subsample: 1.0 0.2421 0.6842 0.0692 
+poly_2 Lasso alpha: 100.0 0.0 0.0 0.0693 
+scaler_poly_3 Lasso alpha: 1.0 0.0 0.0 0.0693 
+scaler_poly_3 Lasso alpha: 10.0 0.0 0.0 0.0693 
+scaler_poly_3 Lasso alpha: 100.0 0.0 0.0 0.0693 
+poly_2_all Lasso alpha: 100.0 0.0 0.0 0.0693 
+scaler_poly_2 Lasso alpha: 1.0 0.0 0.0 0.0693 
+scaler_poly_2 Lasso alpha: 10.0 0.0 0.0 0.0693 
+scaler_poly_2 Lasso alpha: 100.0 0.0 0.0 0.0693 
+normal Lasso alpha: 1.0 0.0 0.0 0.0693 
+normal Lasso alpha: 10.0 0.0 0.0 0.0693 
+normal Lasso alpha: 100.0 0.0 0.0 0.0693 
+scaler_normal Lasso alpha: 1.0 0.0 0.0 0.0693 
+scaler_normal Lasso alpha: 10.0 0.0 0.0 0.0693 
+scaler_normal Lasso alpha: 100.0 0.0 0.0 0.0693 
+scaler_poly_2_all Lasso alpha: 1.0 0.0 0.0 0.0693 
+scaler_poly_2_all Lasso alpha: 10.0 0.0 0.0 0.0693 
+scaler_poly_2_all Lasso alpha: 100.0 0.0 0.0 0.0693 
+poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.001 0.0947 0.1053 0.0695 
+scaler_poly_3 SVR kernel: rbf, C: 100, gamma: 0.0001 0.3579 0.6579 0.0695 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.001, degree: 2 0.2737 0.5526 0.0695 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.0001, degree: 2 0.2737 0.5526 0.0695 
+poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.01 0.0105 0.0263 0.0696 
+poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.1 0.0 0.0 0.0696 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 2 0.2421 0.5263 0.0696 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.0001, degree: 2 0.2421 0.5263 0.0696 
+poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.001 0.1 0.1579 0.0696 
+poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.01 0.0 0.0 0.0696 
+poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.1 0.0 0.0 0.0696 
+poly_3 SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.0737 0.0526 0.0696 
+poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.0 0.0 0.0696 
+poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.001 0.0 0.0 0.0696 
+poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.01 0.0 0.0 0.0696 
+poly_3 SVR kernel: rbf, C: 0.1, gamma: 0.1 0.0 0.0 0.0696 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 1 0.2579 0.5263 0.0697 
+scaler_poly_2 SVR kernel: rbf, C: 1, gamma: 0.1 0.2947 0.6579 0.0698 
+scaler_poly_2_all SVR kernel: rbf, C: 1, gamma: 0.1 0.3263 0.6579 0.0703 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.001, degree: 3 0.2579 0.5263 0.0705 
+poly_2 SVR kernel: rbf, C: 1, gamma: 0.001 0.1211 0.1579 0.0707 
+poly_2 SVR kernel: rbf, C: 10, gamma: 0.001 0.1211 0.1579 0.0707 
+poly_2 SVR kernel: rbf, C: 50, gamma: 0.001 0.1211 0.1579 0.0707 
+poly_2 SVR kernel: rbf, C: 100, gamma: 0.001 0.1211 0.1579 0.0707 
+scaler_normal SVR kernel: rbf, C: 0.1, gamma: 0.001 0.3053 0.6316 0.0707 
+scaler_normal SVR kernel: rbf, C: 1, gamma: 0.0001 0.3053 0.6316 0.0707 
+scaler_normal SVR kernel: rbf, C: 10, gamma: 1e-05 0.3105 0.6316 0.0707 
+scaler_poly_2_all SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.3053 0.6053 0.0708 
+scaler_poly_2_all SVR kernel: rbf, C: 1, gamma: 1e-05 0.3053 0.6053 0.0708 
+poly_2_all SVR kernel: rbf, C: 1, gamma: 0.001 0.1263 0.1316 0.071 
+poly_2_all SVR kernel: rbf, C: 10, gamma: 0.001 0.1263 0.1316 0.071 
+poly_2_all SVR kernel: rbf, C: 50, gamma: 0.001 0.1263 0.1316 0.071 
+poly_2_all SVR kernel: rbf, C: 100, gamma: 0.001 0.1263 0.1316 0.071 
+scaler_poly_2 SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.3053 0.5789 0.071 
+scaler_poly_2 SVR kernel: rbf, C: 1, gamma: 1e-05 0.3053 0.5789 0.071 
+poly_2 SVR kernel: rbf, C: 1, gamma: 0.01 0.0158 0.0263 0.0711 
+poly_2 SVR kernel: rbf, C: 1, gamma: 0.1 0.0 0.0 0.0711 
+poly_2 SVR kernel: rbf, C: 10, gamma: 0.01 0.0158 0.0263 0.0711 
+poly_2 SVR kernel: rbf, C: 10, gamma: 0.1 0.0 0.0 0.0711 
+poly_2 SVR kernel: rbf, C: 50, gamma: 0.01 0.0158 0.0263 0.0711 
+poly_2 SVR kernel: rbf, C: 50, gamma: 0.1 0.0 0.0 0.0711 
+poly_2 SVR kernel: rbf, C: 100, gamma: 0.01 0.0158 0.0263 0.0711 
+poly_2 SVR kernel: rbf, C: 100, gamma: 0.1 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 1, gamma: 0.01 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 1, gamma: 0.1 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 10, gamma: 0.01 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 10, gamma: 0.1 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 50, gamma: 0.01 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 50, gamma: 0.1 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 100, gamma: 0.01 0.0 0.0 0.0711 
+poly_2_all SVR kernel: rbf, C: 100, gamma: 0.1 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 1, gamma: 1e-05 0.0684 0.0526 0.0711 
+poly_3 SVR kernel: rbf, C: 1, gamma: 0.0001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 1, gamma: 0.001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 1, gamma: 0.01 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 1, gamma: 0.1 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 10, gamma: 1e-05 0.0684 0.0526 0.0711 
+poly_3 SVR kernel: rbf, C: 10, gamma: 0.0001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 10, gamma: 0.001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 10, gamma: 0.01 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 10, gamma: 0.1 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 50, gamma: 1e-05 0.0684 0.0526 0.0711 
+poly_3 SVR kernel: rbf, C: 50, gamma: 0.0001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 50, gamma: 0.001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 50, gamma: 0.01 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 50, gamma: 0.1 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 100, gamma: 1e-05 0.0684 0.0526 0.0711 
+poly_3 SVR kernel: rbf, C: 100, gamma: 0.0001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 100, gamma: 0.001 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 100, gamma: 0.01 0.0 0.0 0.0711 
+poly_3 SVR kernel: rbf, C: 100, gamma: 0.1 0.0 0.0 0.0711 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.001, degree: 3 0.2895 0.6053 0.0714 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 1 0.3158 0.6316 0.0716 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.0001, degree: 1 0.3158 0.6316 0.0716 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 2 0.3211 0.6316 0.0717 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.001, degree: 2 0.3211 0.6316 0.0717 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 1 0.3053 0.6053 0.0717 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 1 0.3053 0.5789 0.0718 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.001, degree: 3 0.2684 0.5263 0.0718 
+scaler_poly_3 SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.2579 0.5 0.0721 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.01, degree: 3 0.3 0.6316 0.0721 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 2 0.2789 0.5789 0.0723 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.0001, degree: 2 0.2789 0.5789 0.0723 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.0001, degree: 2 0.2368 0.5263 0.0724 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 2 0.2737 0.5526 0.0724 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.0001, degree: 2 0.2737 0.5526 0.0724 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.01, degree: 1 0.3421 0.6842 0.0724 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.001, degree: 1 0.3421 0.6842 0.0724 
+scaler_normal SVR kernel: rbf, C: 0.1, gamma: 0.0001 0.3211 0.6316 0.0725 
+scaler_normal SVR kernel: rbf, C: 1, gamma: 1e-05 0.3211 0.6316 0.0725 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.1, degree: 1 0.3421 0.6842 0.0725 
+scaler_poly_2_all SVR kernel: linear, C: 0.1 0.3421 0.6842 0.0725 
+scaler_poly_2_all SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.2895 0.5789 0.0725 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 3 0.2579 0.5263 0.0726 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.0001, degree: 3 0.2579 0.5263 0.0726 
+scaler_poly_2 SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.3 0.5789 0.0726 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.001, degree: 3 0.2895 0.6053 0.0726 
+scaler_poly_3 Ridge alpha: 10.0 0.3158 0.6579 0.0727 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 2 0.2368 0.5263 0.0727 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.0001, degree: 2 0.2737 0.5526 0.0727 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.001, degree: 3 0.2684 0.5263 0.0727 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 1 0.3211 0.6316 0.0727 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.01, degree: 3 0.3 0.6316 0.0727 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.001, degree: 2 0.3211 0.6316 0.0727 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.0001, degree: 2 0.3211 0.6316 0.0727 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.001, degree: 3 0.3 0.6316 0.0727 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.0001, degree: 2 0.2789 0.5789 0.0727 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 3 0.2579 0.5263 0.0728 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.0001, degree: 3 0.2579 0.5263 0.0728 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.0001, degree: 3 0.2579 0.5263 0.0728 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 2 0.2737 0.5526 0.0728 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 3 0.2684 0.5263 0.0728 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 3 0.2684 0.5263 0.0728 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.0001, degree: 3 0.2684 0.5263 0.0728 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.0001, degree: 3 0.2684 0.5263 0.0728 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.0001, degree: 3 0.2684 0.5263 0.0728 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 2 0.3211 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 2 0.3211 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.0001, degree: 2 0.3211 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.0001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 1, gamma: 0.001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.0001, degree: 2 0.3211 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.0001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 10, gamma: 0.001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.0001, degree: 3 0.3 0.6316 0.0728 
+scaler_normal SVR kernel: rbf, C: 0.1, gamma: 1e-05 0.3211 0.6316 0.0728 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 2 0.2789 0.5789 0.0728 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.0001, degree: 3 0.2895 0.6053 0.0728 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.001, degree: 3 0.2895 0.6053 0.0728 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.0001, degree: 3 0.2895 0.6053 0.0728 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.0001, degree: 3 0.2895 0.6053 0.0728 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.0001, degree: 3 0.2895 0.6053 0.0728 
+scaler_poly_3 SVR kernel: rbf, C: 1, gamma: 0.01 0.3053 0.6316 0.0729 
+poly_3 GradientBoostingRegressor n_estimators: 10, learning_rate: 1, subsample: 0.5 0.2053 0.4737 0.0734 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.1, degree: 2 0.3211 0.7105 0.0735 
+scaler_poly_3 SVR kernel: rbf, C: 1, gamma: 0.1 0.2158 0.3421 0.0739 
+scaler_poly_3 SVR kernel: rbf, C: 10, gamma: 0.001 0.3474 0.6579 0.0742 
+scaler_poly_2_all SVR kernel: rbf, C: 50, gamma: 0.001 0.3526 0.6842 0.0765 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 2 0.3211 0.6579 0.0769 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.01, degree: 2 0.3211 0.6579 0.0769 
+scaler_poly_2 Ridge alpha: 1.0 0.3105 0.6579 0.0778 
+scaler_poly_2 SVR kernel: rbf, C: 100, gamma: 0.001 0.3211 0.6579 0.0785 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.01, degree: 2 0.3 0.6316 0.0816 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.001, degree: 2 0.3 0.6316 0.0816 
+scaler_poly_2 SVR kernel: rbf, C: 10, gamma: 0.01 0.3368 0.6842 0.084 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.01, degree: 3 0.3 0.6316 0.0848 
+poly_3 LinearRegression n_jobs: -1 0.2737 0.5526 0.0867 
+scaler_normal SVR kernel: rbf, C: 10, gamma: 0.1 0.3316 0.6842 0.0879 
+scaler_normal SVR kernel: poly, C: 100, gamma: 0.1, degree: 3 0.3526 0.6842 0.089 
+scaler_poly_2_all SVR kernel: rbf, C: 10, gamma: 0.1 0.2526 0.5526 0.0898 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.1, degree: 2 0.3211 0.6579 0.0912 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.01, degree: 2 0.3211 0.6579 0.0912 
+scaler_poly_2_all SVR kernel: rbf, C: 100, gamma: 0.001 0.3368 0.6579 0.0923 
+scaler_poly_2 SVR kernel: rbf, C: 10, gamma: 0.1 0.2263 0.5526 0.0927 
+scaler_poly_2_all SVR kernel: rbf, C: 10, gamma: 0.01 0.3316 0.6842 0.0995 
+scaler_poly_3 SVR kernel: rbf, C: 50, gamma: 0.001 0.3263 0.6579 0.1019 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.1, degree: 1 0.3263 0.6579 0.102 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.01, degree: 1 0.3263 0.6579 0.102 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.001, degree: 1 0.3263 0.6579 0.102 
+scaler_poly_3 SVR kernel: linear, C: 0.1 0.3263 0.6579 0.102 
+scaler_normal SVR kernel: rbf, C: 50, gamma: 0.1 0.3 0.6842 0.1033 
+scaler_poly_3 SVR kernel: rbf, C: 10, gamma: 0.1 0.1632 0.2368 0.104 
+scaler_poly_2_all Ridge alpha: 1.0 0.3211 0.6579 0.1051 
+scaler_poly_2 SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 3 0.3 0.6579 0.1082 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.01, degree: 3 0.3 0.6579 0.1082 
+normal GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 0.5 0.2105 0.5 0.111 
+scaler_normal SVR kernel: rbf, C: 100, gamma: 0.1 0.2947 0.6842 0.1111 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.1, degree: 2 0.3316 0.6579 0.1112 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.01, degree: 2 0.3316 0.6579 0.1112 
+scaler_poly_3 SVR kernel: rbf, C: 10, gamma: 0.01 0.3 0.6053 0.1135 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.01, degree: 1 0.3526 0.6842 0.1153 
+scaler_poly_2 SVR kernel: linear, C: 1 0.3526 0.6842 0.1153 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.1, degree: 1 0.3526 0.6842 0.1154 
+scaler_poly_2 SVR kernel: rbf, C: 50, gamma: 0.01 0.3211 0.6579 0.1191 
+scaler_poly_2 SVR kernel: rbf, C: 50, gamma: 0.1 0.2 0.5263 0.1204 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 2 0.3368 0.6316 0.121 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.01, degree: 2 0.3421 0.6316 0.121 
+scaler_poly_2_all SVR kernel: rbf, C: 50, gamma: 0.1 0.1842 0.4737 0.1211 
+scaler_poly_3 SVR kernel: rbf, C: 100, gamma: 0.001 0.3368 0.6316 0.1218 
+scaler_poly_3 Ridge alpha: 1.0 0.3211 0.6316 0.124 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.01, degree: 3 0.2737 0.5789 0.1242 
+scaler_poly_2_all SVR kernel: rbf, C: 50, gamma: 0.01 0.2895 0.6579 0.1257 
+scaler_poly_2 SVR kernel: rbf, C: 100, gamma: 0.01 0.3053 0.6579 0.1291 
+scaler_poly_2_all SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 3 0.3 0.6579 0.1305 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.01, degree: 3 0.3 0.6579 0.1305 
+scaler_poly_2_all SVR kernel: rbf, C: 100, gamma: 0.01 0.3105 0.6842 0.1339 
+scaler_poly_3 SVR kernel: rbf, C: 50, gamma: 0.01 0.2842 0.5526 0.1369 
+poly_2 GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 0.5 0.2 0.5 0.1413 
+scaler_poly_2 SVR kernel: poly, C: 1, gamma: 0.1, degree: 3 0.3368 0.6842 0.1433 
+poly_2_all GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 0.5 0.1316 0.3684 0.1437 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.1, degree: 1 0.3474 0.6842 0.1453 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.01, degree: 1 0.3474 0.6842 0.1453 
+scaler_poly_2_all SVR kernel: linear, C: 1 0.3474 0.6842 0.1453 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.1, degree: 2 0.3211 0.6579 0.1485 
+scaler_poly_2 SVR kernel: rbf, C: 100, gamma: 0.1 0.2053 0.4211 0.1534 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.01, degree: 3 0.3105 0.6316 0.161 
+scaler_poly_3 SVR kernel: rbf, C: 100, gamma: 0.01 0.2737 0.5263 0.1628 
+scaler_poly_3 SVR kernel: rbf, C: 50, gamma: 0.1 0.1368 0.1579 0.1646 
+scaler_poly_2_all SVR kernel: rbf, C: 100, gamma: 0.1 0.1789 0.3684 0.1647 
+scaler_poly_2_all SVR kernel: poly, C: 1, gamma: 0.1, degree: 3 0.3474 0.6842 0.1743 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.1, degree: 2 0.3421 0.6842 0.1762 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.1, degree: 2 0.2895 0.5789 0.1831 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.01, degree: 2 0.2895 0.5789 0.1831 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.1, degree: 1 0.3 0.5789 0.1962 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.01, degree: 1 0.3105 0.5789 0.1962 
+scaler_poly_3 SVR kernel: linear, C: 1 0.3053 0.5789 0.1962 
+poly_3 GradientBoostingRegressor n_estimators: 50, learning_rate: 1, subsample: 0.5 0.1789 0.4211 0.2084 
+scaler_poly_2 SVR kernel: poly, C: 10, gamma: 0.1, degree: 3 0.2947 0.7105 0.2105 
+scaler_poly_3 SVR kernel: poly, C: 0.1, gamma: 0.1, degree: 3 0.3 0.6053 0.2168 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.01, degree: 3 0.3 0.6053 0.2168 
+scaler_poly_3 SVR kernel: rbf, C: 100, gamma: 0.1 0.1263 0.1842 0.2259 
+scaler_poly_2_all SVR kernel: poly, C: 10, gamma: 0.1, degree: 3 0.3 0.7105 0.2426 
+scaler_poly_2 SVR kernel: linear, C: 10 0.3211 0.6316 0.2676 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.1, degree: 1 0.3211 0.6316 0.2678 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.1, degree: 2 0.3105 0.6579 0.2833 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.1, degree: 1 0.2947 0.6316 0.2834 
+scaler_poly_2_all SVR kernel: linear, C: 10 0.3 0.6316 0.2834 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.1, degree: 2 0.3421 0.6842 0.2875 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.1, degree: 2 0.2474 0.5 0.2897 
+scaler_poly_3 SVR kernel: poly, C: 1, gamma: 0.1, degree: 3 0.2526 0.5263 0.3248 
+scaler_poly_3 SVR kernel: linear, C: 10 0.2842 0.5263 0.3666 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.1, degree: 1 0.2789 0.5263 0.3671 
+scaler_poly_2 SVR kernel: linear, C: 100 0.2684 0.6053 0.3858 
+scaler_poly_2_all LinearRegression n_jobs: -1 0.2263 0.5 0.3886 
+scaler_poly_2 SVR kernel: poly, C: 100, gamma: 0.1, degree: 3 0.2263 0.5263 0.4009 
+scaler_poly_2_all SVR kernel: linear, C: 100 0.3105 0.5526 0.4256 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.1, degree: 2 0.2053 0.3947 0.4462 
+scaler_poly_2_all LinearRegression n_jobs: -1, normalize: True 0.2158 0.5 0.4644 
+scaler_poly_2 LinearRegression n_jobs: -1, normalize: True 0.2053 0.5263 0.4786 
+scaler_poly_2_all SVR kernel: poly, C: 100, gamma: 0.1, degree: 3 0.2421 0.5526 0.5085 
+scaler_poly_2 LinearRegression n_jobs: -1 0.2158 0.5 0.5323 
+scaler_poly_3 SVR kernel: poly, C: 10, gamma: 0.1, degree: 3 0.1947 0.2895 0.6247 
+scaler_poly_3 SVR kernel: linear, C: 100 0.2158 0.4737 1.0723 
+scaler_poly_3 SVR kernel: poly, C: 100, gamma: 0.1, degree: 3 0.1211 0.1579 1.8831 
+scaler_poly_3 LinearRegression n_jobs: -1, normalize: True 0.1368 0.2368 24.4607 
+scaler_poly_3 LinearRegression n_jobs: -1 0.1211 0.2105 33.346 

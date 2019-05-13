@@ -1,0 +1,76 @@
+INFO:root:Starting with estimator: LogisticRegression
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.001, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2605, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.001, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2605, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.01, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2658, Mean acc at 5: 0.3105, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.01, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2658, Mean acc at 5: 0.3105, Mean acc at 1: 0.6053
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 0.1, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2816, Mean acc at 5: 0.3368, Mean acc at 1: 0.6316
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 0.1, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2816, Mean acc at 5: 0.3368, Mean acc at 1: 0.6316
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 1.0, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2711, Mean acc at 5: 0.3421, Mean acc at 1: 0.7105
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 1.0, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2711, Mean acc at 5: 0.3421, Mean acc at 1: 0.7105
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 10.0, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2474, Mean acc at 5: 0.2895, Mean acc at 1: 0.6579
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 10.0, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2474, Mean acc at 5: 0.2895, Mean acc at 1: 0.6579
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'newton-cg', 'C': 100.0, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2474, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Params: {'multi_class': 'multinomial', 'solver': 'lbfgs', 'C': 100.0, 'n_jobs': -1, 'max_iter': 2000}, accuracy over all classes is: 0.2474, Mean acc at 5: 0.3105, Mean acc at 1: 0.6316
+INFO:root:Starting with estimator: RandomForestClassifier
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 2, 'n_jobs': -1}, accuracy over all classes is: 0.1605, Mean acc at 5: 0.2579, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 10, 'min_samples_split': 3, 'n_jobs': -1}, accuracy over all classes is: 0.1684, Mean acc at 5: 0.2263, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 2, 'n_jobs': -1}, accuracy over all classes is: 0.2184, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 100, 'min_samples_split': 3, 'n_jobs': -1}, accuracy over all classes is: 0.2237, Mean acc at 5: 0.3000, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 2, 'n_jobs': -1}, accuracy over all classes is: 0.2263, Mean acc at 5: 0.2895, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 200, 'min_samples_split': 3, 'n_jobs': -1}, accuracy over all classes is: 0.2158, Mean acc at 5: 0.2789, Mean acc at 1: 0.6316
+INFO:root:Starting with estimator: GradientBoostingClassifier
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.1, 'subsample': 0.5}, accuracy over all classes is: 0.1553, Mean acc at 5: 0.2263, Mean acc at 1: 0.5000
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.1, 'subsample': 1.0}, accuracy over all classes is: 0.1763, Mean acc at 5: 0.2158, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.01, 'subsample': 0.5}, accuracy over all classes is: 0.1868, Mean acc at 5: 0.2684, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.01, 'subsample': 1.0}, accuracy over all classes is: 0.1789, Mean acc at 5: 0.2474, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.001, 'subsample': 0.5}, accuracy over all classes is: 0.1921, Mean acc at 5: 0.2842, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.001, 'subsample': 1.0}, accuracy over all classes is: 0.1868, Mean acc at 5: 0.2421, Mean acc at 1: 0.5526
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.0001, 'subsample': 0.5}, accuracy over all classes is: 0.2079, Mean acc at 5: 0.3053, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.0001, 'subsample': 1.0}, accuracy over all classes is: 0.1921, Mean acc at 5: 0.2421, Mean acc at 1: 0.5526
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.1, 'subsample': 0.5}, accuracy over all classes is: 0.2737, Mean acc at 5: 0.3263, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.1, 'subsample': 1.0}, accuracy over all classes is: 0.2184, Mean acc at 5: 0.2526, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.01, 'subsample': 0.5}, accuracy over all classes is: 0.2237, Mean acc at 5: 0.3105, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.01, 'subsample': 1.0}, accuracy over all classes is: 0.2000, Mean acc at 5: 0.2895, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.001, 'subsample': 0.5}, accuracy over all classes is: 0.2132, Mean acc at 5: 0.3158, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.001, 'subsample': 1.0}, accuracy over all classes is: 0.1842, Mean acc at 5: 0.2579, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.0001, 'subsample': 0.5}, accuracy over all classes is: 0.2342, Mean acc at 5: 0.3526, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.0001, 'subsample': 1.0}, accuracy over all classes is: 0.1711, Mean acc at 5: 0.2211, Mean acc at 1: 0.5263
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1, 'subsample': 0.5}, accuracy over all classes is: 0.2368, Mean acc at 5: 0.3158, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1, 'subsample': 1.0}, accuracy over all classes is: 0.2316, Mean acc at 5: 0.2895, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01, 'subsample': 0.5}, accuracy over all classes is: 0.2079, Mean acc at 5: 0.2789, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01, 'subsample': 1.0}, accuracy over all classes is: 0.2237, Mean acc at 5: 0.3000, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001, 'subsample': 0.5}, accuracy over all classes is: 0.2263, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001, 'subsample': 1.0}, accuracy over all classes is: 0.1895, Mean acc at 5: 0.2526, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.0001, 'subsample': 0.5}, accuracy over all classes is: 0.1947, Mean acc at 5: 0.2789, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.0001, 'subsample': 1.0}, accuracy over all classes is: 0.1711, Mean acc at 5: 0.2211, Mean acc at 1: 0.5526
+INFO:root:Starting with estimator: SVC
+INFO:root:Params: {'C': 0.001, 'gamma': 0.0001, 'probability': True}, accuracy over all classes is: 0.0421, Mean acc at 5: 0.0316, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.001, 'probability': True}, accuracy over all classes is: 0.0447, Mean acc at 5: 0.0421, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.01, 'probability': True}, accuracy over all classes is: 0.0342, Mean acc at 5: 0.0263, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 0.1, 'probability': True}, accuracy over all classes is: 0.0474, Mean acc at 5: 0.0474, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.001, 'gamma': 1.0, 'probability': True}, accuracy over all classes is: 0.0395, Mean acc at 5: 0.0421, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.0001, 'probability': True}, accuracy over all classes is: 0.0342, Mean acc at 5: 0.0316, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.001, 'probability': True}, accuracy over all classes is: 0.0395, Mean acc at 5: 0.0316, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.01, 'probability': True}, accuracy over all classes is: 0.0342, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 0.1, 'probability': True}, accuracy over all classes is: 0.0474, Mean acc at 5: 0.0526, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.01, 'gamma': 1.0, 'probability': True}, accuracy over all classes is: 0.0605, Mean acc at 5: 0.0684, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.0001, 'probability': True}, accuracy over all classes is: 0.0447, Mean acc at 5: 0.0421, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.001, 'probability': True}, accuracy over all classes is: 0.0395, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.01, 'probability': True}, accuracy over all classes is: 0.0526, Mean acc at 5: 0.0474, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 0.1, 'probability': True}, accuracy over all classes is: 0.0421, Mean acc at 5: 0.0474, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 0.1, 'gamma': 1.0, 'probability': True}, accuracy over all classes is: 0.2395, Mean acc at 5: 0.2947, Mean acc at 1: 0.5263
+INFO:root:Params: {'C': 1.0, 'gamma': 0.0001, 'probability': True}, accuracy over all classes is: 0.0421, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 1.0, 'gamma': 0.001, 'probability': True}, accuracy over all classes is: 0.0342, Mean acc at 5: 0.0316, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 1.0, 'gamma': 0.01, 'probability': True}, accuracy over all classes is: 0.0895, Mean acc at 5: 0.1053, Mean acc at 1: 0.1316
+INFO:root:Params: {'C': 1.0, 'gamma': 0.1, 'probability': True}, accuracy over all classes is: 0.2553, Mean acc at 5: 0.3053, Mean acc at 1: 0.5526
+INFO:root:Params: {'C': 1.0, 'gamma': 1.0, 'probability': True}, accuracy over all classes is: 0.2158, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'C': 10, 'gamma': 0.0001, 'probability': True}, accuracy over all classes is: 0.0368, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 10, 'gamma': 0.001, 'probability': True}, accuracy over all classes is: 0.0763, Mean acc at 5: 0.0895, Mean acc at 1: 0.0789
+INFO:root:Params: {'C': 10, 'gamma': 0.01, 'probability': True}, accuracy over all classes is: 0.2421, Mean acc at 5: 0.2842, Mean acc at 1: 0.5263
+INFO:root:Params: {'C': 10, 'gamma': 0.1, 'probability': True}, accuracy over all classes is: 0.2789, Mean acc at 5: 0.3211, Mean acc at 1: 0.6842
+INFO:root:Params: {'C': 10, 'gamma': 1.0, 'probability': True}, accuracy over all classes is: 0.2395, Mean acc at 5: 0.3053, Mean acc at 1: 0.6053
+INFO:root:Params: {'C': 100, 'gamma': 0.0001, 'probability': True}, accuracy over all classes is: 0.0500, Mean acc at 5: 0.0368, Mean acc at 1: 0.0000
+INFO:root:Params: {'C': 100, 'gamma': 0.001, 'probability': True}, accuracy over all classes is: 0.2342, Mean acc at 5: 0.2737, Mean acc at 1: 0.5263
+INFO:root:Params: {'C': 100, 'gamma': 0.01, 'probability': True}, accuracy over all classes is: 0.2632, Mean acc at 5: 0.3211, Mean acc at 1: 0.6842
+INFO:root:Params: {'C': 100, 'gamma': 0.1, 'probability': True}, accuracy over all classes is: 0.2632, Mean acc at 5: 0.3316, Mean acc at 1: 0.7105
+INFO:root:Params: {'C': 100, 'gamma': 1.0, 'probability': True}, accuracy over all classes is: 0.2079, Mean acc at 5: 0.2263, Mean acc at 1: 0.5789

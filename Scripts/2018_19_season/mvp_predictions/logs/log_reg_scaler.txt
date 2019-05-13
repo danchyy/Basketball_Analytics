@@ -1,0 +1,55 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0500, Mean acc at 5: 0.3316, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0500, Mean acc at 5: 0.3316, Mean acc at 1: 0.6842
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0485, Mean acc at 5: 0.3421, Mean acc at 1: 0.6842
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0414, Mean acc at 5: 0.3474, Mean acc at 1: 0.6842
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0378, Mean acc at 5: 0.3579, Mean acc at 1: 0.6842
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0413, Mean acc at 5: 0.3316, Mean acc at 1: 0.6579
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0482, Mean acc at 5: 0.3263, Mean acc at 1: 0.6316
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0578, Mean acc at 5: 0.3211, Mean acc at 1: 0.6316
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0693, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0693, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693, Mean acc at 5: 0.0000, Mean acc at 1: 0.0000
+INFO:root:Starting with estimator: GradientBoostingRegressor
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.1, 'subsample': 0.5}, MSE over all splits is: 0.0364, Mean acc at 5: 0.3158, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.1, 'subsample': 1.0}, MSE over all splits is: 0.0359, Mean acc at 5: 0.3000, Mean acc at 1: 0.7105
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.01, 'subsample': 0.5}, MSE over all splits is: 0.0610, Mean acc at 5: 0.3211, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.01, 'subsample': 1.0}, MSE over all splits is: 0.0607, Mean acc at 5: 0.3211, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.001, 'subsample': 0.5}, MSE over all splits is: 0.0684, Mean acc at 5: 0.3211, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.001, 'subsample': 1.0}, MSE over all splits is: 0.0683, Mean acc at 5: 0.3158, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.0001, 'subsample': 0.5}, MSE over all splits is: 0.0692, Mean acc at 5: 0.2632, Mean acc at 1: 0.5789
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 0.0001, 'subsample': 1.0}, MSE over all splits is: 0.0692, Mean acc at 5: 0.3053, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 1, 'subsample': 0.5}, MSE over all splits is: 0.2514, Mean acc at 5: 0.1842, Mean acc at 1: 0.3947
+INFO:root:Params: {'n_estimators': 10, 'learning_rate': 1, 'subsample': 1.0}, MSE over all splits is: 0.1339, Mean acc at 5: 0.2211, Mean acc at 1: 0.5000
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.1, 'subsample': 0.5}, MSE over all splits is: 0.0574, Mean acc at 5: 0.2474, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.1, 'subsample': 1.0}, MSE over all splits is: 0.0483, Mean acc at 5: 0.2632, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.01, 'subsample': 0.5}, MSE over all splits is: 0.0422, Mean acc at 5: 0.2684, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.01, 'subsample': 1.0}, MSE over all splits is: 0.0424, Mean acc at 5: 0.3263, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.001, 'subsample': 0.5}, MSE over all splits is: 0.0649, Mean acc at 5: 0.3000, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.001, 'subsample': 1.0}, MSE over all splits is: 0.0648, Mean acc at 5: 0.3053, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.0001, 'subsample': 0.5}, MSE over all splits is: 0.0688, Mean acc at 5: 0.3053, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 0.0001, 'subsample': 1.0}, MSE over all splits is: 0.0688, Mean acc at 5: 0.3053, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 1, 'subsample': 0.5}, MSE over all splits is: 0.6333, Mean acc at 5: 0.1263, Mean acc at 1: 0.2895
+INFO:root:Params: {'n_estimators': 50, 'learning_rate': 1, 'subsample': 1.0}, MSE over all splits is: 0.1694, Mean acc at 5: 0.1947, Mean acc at 1: 0.5263
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1, 'subsample': 0.5}, MSE over all splits is: 0.0656, Mean acc at 5: 0.3000, Mean acc at 1: 0.7105
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1, 'subsample': 1.0}, MSE over all splits is: 0.0581, Mean acc at 5: 0.2684, Mean acc at 1: 0.6316
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01, 'subsample': 0.5}, MSE over all splits is: 0.0358, Mean acc at 5: 0.2947, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01, 'subsample': 1.0}, MSE over all splits is: 0.0362, Mean acc at 5: 0.3105, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001, 'subsample': 0.5}, MSE over all splits is: 0.0609, Mean acc at 5: 0.3211, Mean acc at 1: 0.7105
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001, 'subsample': 1.0}, MSE over all splits is: 0.0607, Mean acc at 5: 0.3263, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.0001, 'subsample': 0.5}, MSE over all splits is: 0.0684, Mean acc at 5: 0.3105, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.0001, 'subsample': 1.0}, MSE over all splits is: 0.0683, Mean acc at 5: 0.3158, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 1, 'subsample': 0.5}, MSE over all splits is: 0.7704, Mean acc at 5: 0.1526, Mean acc at 1: 0.2105
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 1, 'subsample': 1.0}, MSE over all splits is: 0.1679, Mean acc at 5: 0.2368, Mean acc at 1: 0.5000
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.1, 'subsample': 0.5}, MSE over all splits is: 0.0714, Mean acc at 5: 0.2737, Mean acc at 1: 0.6053
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.1, 'subsample': 1.0}, MSE over all splits is: 0.0674, Mean acc at 5: 0.2842, Mean acc at 1: 0.6579
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.01, 'subsample': 0.5}, MSE over all splits is: 0.0390, Mean acc at 5: 0.2789, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.01, 'subsample': 1.0}, MSE over all splits is: 0.0377, Mean acc at 5: 0.3000, Mean acc at 1: 0.6842
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.001, 'subsample': 0.5}, MSE over all splits is: 0.0543, Mean acc at 5: 0.3105, Mean acc at 1: 0.7105
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.001, 'subsample': 1.0}, MSE over all splits is: 0.0541, Mean acc at 5: 0.3105, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.0001, 'subsample': 0.5}, MSE over all splits is: 0.0675, Mean acc at 5: 0.3053, Mean acc at 1: 0.7105
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.0001, 'subsample': 1.0}, MSE over all splits is: 0.0674, Mean acc at 5: 0.3158, Mean acc at 1: 0.7368
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 1, 'subsample': 0.5}, MSE over all splits is: 1.0733, Mean acc at 5: 0.1105, Mean acc at 1: 0.1842
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 1, 'subsample': 1.0}, MSE over all splits is: 0.1629, Mean acc at 5: 0.1895, Mean acc at 1: 0.5000

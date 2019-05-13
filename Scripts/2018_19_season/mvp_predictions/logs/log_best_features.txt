@@ -1,0 +1,21 @@
+INFO:root:Starting with estimator: LinearRegression
+INFO:root:Params: {'n_jobs': -1}, MSE over all splits is: 0.0392, with scale: False
+INFO:root:Params: {'n_jobs': -1, 'normalize': True}, MSE over all splits is: 0.0392, with scale: False
+INFO:root:Starting with estimator: Ridge
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0412, with scale: False
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0417, with scale: False
+INFO:root:Params: {'alpha': 50.0}, MSE over all splits is: 0.0418, with scale: False
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0418, with scale: False
+INFO:root:Params: {'alpha': 200.0}, MSE over all splits is: 0.0417, with scale: False
+INFO:root:Params: {'alpha': 500.0}, MSE over all splits is: 0.0418, with scale: False
+INFO:root:Starting with estimator: Lasso
+INFO:root:Params: {'alpha': 1.0}, MSE over all splits is: 0.0693, with scale: False
+INFO:root:Params: {'alpha': 10.0}, MSE over all splits is: 0.0693, with scale: False
+INFO:root:Params: {'alpha': 100.0}, MSE over all splits is: 0.0693, with scale: False
+INFO:root:Starting with estimator: GradientBoostingRegressor
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.1}, MSE over all splits is: 0.0396, with scale: False
+INFO:root:Params: {'n_estimators': 500, 'learning_rate': 0.01}, MSE over all splits is: 0.0376, with scale: False
+INFO:root:Params: {'n_estimators': 200, 'learning_rate': 0.1}, MSE over all splits is: 0.0434, with scale: False
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.01}, MSE over all splits is: 0.0405, with scale: False
+INFO:root:Params: {'n_estimators': 500, 'learning_rate': 0.1}, MSE over all splits is: 0.0459, with scale: False
+INFO:root:Params: {'n_estimators': 100, 'learning_rate': 0.001}, MSE over all splits is: 0.0634, with scale: False

@@ -8,13 +8,13 @@ Current mini "projects":
 
 ## 2018-19 Season
 
-* Best clutch scorers thus far
+* [Predicting MVP](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/mvp_predictions/Predicting%20MVP.ipynb) for 2018-19 nba season. 
 
-	* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/clutch_players/ClutchStats.ipynb) which shows players that excel in the clutch.
-	
-	* Big Luka Dončić analysis, [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/doncic_analysis/doncic_analysis.ipynb)
-	
-	* James Harden analysis, [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/harden_analysis/harden_analysis.ipynb)
+* Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/clutch_players/ClutchStats.ipynb) which shows players that excel in the clutch.
+
+* Big Luka Dončić analysis, [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/doncic_analysis/doncic_analysis.ipynb)
+
+* James Harden analysis, [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/harden_analysis/harden_analysis.ipynb)
 
 ## 2017-18 Season
 

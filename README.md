@@ -8,6 +8,8 @@ Current mini "projects":
 
 ## 2018-19 Season
 
+* [Evolution of Brook Lopez](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/brook_lopez_evolution/brook_lopez.ipynb), a look at change of Lopez' shot charts through the seasons
+
 * [Predicting MVP](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/mvp_predictions/Predicting%20MVP.ipynb) for 2018-19 nba season. 
 
 * Here is [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/clutch_players/ClutchStats.ipynb) which shows players that excel in the clutch.

@@ -6,6 +6,10 @@ All code is written in Python using the Jupyter Notebooks which allow live previ
 
 Current mini "projects":
 
+## 2019-20 Season
+
+* [Shots and assist by Doncic vs Pelicans](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/doncic_shots_asists_first_trip_double.ipynb)
+
 ## 2018-19 Season
 
 * [Evolution of Brook Lopez](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/brook_lopez_evolution/brook_lopez.ipynb), a look at change of Lopez' shot charts through the seasons

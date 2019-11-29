@@ -10,6 +10,8 @@ Current mini "projects":
 
 * [Shots and assist by Doncic vs Pelicans](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/doncic_shots_asists_first_trip_double.ipynb)
 
+* Mid-Range heavy [Shot chart by DeMar Derozan](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/derozan.ipynb)
+
 ## 2018-19 Season
 
 * [Evolution of Brook Lopez](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/brook_lopez_evolution/brook_lopez.ipynb), a look at change of Lopez' shot charts through the seasons

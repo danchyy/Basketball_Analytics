@@ -8,6 +8,10 @@ Current mini "projects":
 
 ## 2019-20 Season
 
+* [Kyrie Irving Shot chart for 2010s](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/kyrie_shotcharts_2010s.ipynb)
+
+* [Bojan Bodanovic Shot Chart](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/bojan_shotchart.ipynb)
+
 * [Shots and assist by Doncic vs Pelicans](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/doncic_shots_asists_first_trip_double.ipynb)
 
 * Mid-Range heavy [Shot chart by DeMar Derozan](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/derozan.ipynb)

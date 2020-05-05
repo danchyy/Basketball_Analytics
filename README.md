@@ -8,6 +8,36 @@ Current mini "projects":
 
 ## 2019-20 Season
 
+* [Analysis of Boston Duo of the Future](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/boston_duo.ipynb)
+
+* [The PJ Tucker Paradox](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/tucker_paradox.ipynb), where his average distance of 3pt shot is shorter than three on top of the key.
+
+* [Waffle Chart for James Harden's shot selections](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/waffle/james_harden.ipynb)
+
+* [Defensive Specialists, part 3. Robert Covington](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/defensive%20specialists/covington_houston.ipynb)
+
+* [Defensive Specialists, part 2. Brook Lopez](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/defensive%20specialists/brook_lopez_analysis.ipynb)
+
+* [Defensive Specialists, part 1. Rudy Gobert](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/defensive%20specialists/gobert_analysis.ipynb)
+
+* [Evolution of NBA through shot charts](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/evolution_of_nba.ipynb)
+
+* [Coby White analysis](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/coby_white.ipynb)
+
+* [Duncan Robinson analysis](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/duncan_robinson.ipynb)
+
+* [Assist chart by Bam Adebayo](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/assist_charts/bam_assist_chart.ipynb)
+
+* [Analysis of Trae's long distance shooting](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/three_pt_distance.ipynb)
+
+* [Best januaries](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/januaries.ipynb)
+
+* [Analysis of offense durations](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/offense%20attack%20duration.ipynb)
+
+* [Look at Stockton's records](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/stockton_analysis.ipynb)
+
+* [Analysis of Domantas Sabonis' season](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/sabonis_shotchart.ipynb)
+
 * [Kyrie Irving Shot chart for 2010s](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/kyrie_shotcharts_2010s.ipynb)
 
 * [Bojan Bodanovic Shot Chart](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/bojan_shotchart.ipynb)

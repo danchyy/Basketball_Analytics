@@ -8,6 +8,10 @@ Current mini "projects":
 
 ## 2019-20 Season
 
+* [Analysis of Anthony Davis' defensive performance in 2019-20](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/anthony_davis_role.ipynb)
+
+* [Analysis of After timeout plays](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/after_timeout_analysis.ipynb)
+
 * [Analysis of Boston Duo of the Future](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/boston_duo.ipynb)
 
 * [The PJ Tucker Paradox](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/tucker_paradox.ipynb), where his average distance of 3pt shot is shorter than three on top of the key.

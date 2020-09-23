@@ -8,6 +8,16 @@ Current mini "projects":
 
 ## 2019-20 Season
 
+### Playoffs 
+
+* [Lakers - Nuggets Radar chart](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/playoff_analysis/lal_den.ipynb), [Boston - Miami Radar Chart](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/playoff_analysis/bos_mia.ipynb), and there are others as well. Basically a "breakdown" of their offenses through radar chart, which is a nice way to display numerical values across multiple categories. 
+
+* [Biggest change in unassisted Field Goals](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/playoff_analysis/biggest_change_in_unassisted_assisted.ipynb) This shows how the amount of Unassisted field goal makes changed from regular season to first and 2nd round (will update this with conference finals when finished). 
+
+* [Westbrook's adaptation to Rockets](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/playoff_analysis/westbrook_mini_analysis.ipynb) -> Not really connected to playoffs, but it shows how Russ didn't play as other Rockets' players, but ran his own game...
+
+------
+
 * [Analysis of Anthony Davis' defensive performance in 2019-20](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/anthony_davis_role.ipynb)
 
 * [Analysis of After timeout plays](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2019_20_season/after_timeout_analysis.ipynb)

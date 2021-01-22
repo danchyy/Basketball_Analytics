@@ -6,6 +6,30 @@ All code is written in Python using the Jupyter Notebooks which allow live previ
 
 Current mini "projects":
 
+## 2020-21 Season
+
+### Regular Season
+
+* [Biggest difference in opponent's wide open triples vs all teams and vs target teams](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/opp_wide_shot_outlier.ipynb) - full post available at my [website](https://www.bballytics.co/en/2021/01/09/unlucky-start.html)
+
+* [Best offensive rebounders](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/off_rebounding.ipynb)
+
+* [LOLLIPOP CHART showing the most improved players](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/most_improved_players.ipynb)
+
+* [HIstorical results on Christmas games](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/christmas_results.ipynb)
+
+* [Couple of charts analyzing the (d)evolution of Blake Griffin](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/blake_griffin_downfall.ipynb)
+
+* [3 Point chase for all-time record](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/3_point_chase.ipynb)
+
+### Preseason
+
+* [Preseason analysis of Atlanta Hawks](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/offseason_moves/atlanta_hawks.ipynb)
+
+* [Preseason analysis of Philadelphia 76ers](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/offseason_moves/philly.ipynb)
+
+* [Preseason analysis of Portland Blazers](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/offseason_moves/portland.ipynb)
+
 ## 2019-20 Season
 
 ### Playoffs 

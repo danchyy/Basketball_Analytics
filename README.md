@@ -8,7 +8,43 @@ Current mini "projects":
 
 ## 2020-21 Season
 
+### Playoffs
+
+* Some other stuff can be find in this [FOLDER](https://github.com/danchyy/Basketball_Analytics/tree/master/Scripts/2020_21_season/playoffs)
+
+* AVERAGE PASSES PER SERIES: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/playoffs/passing_stats.ipynb)
+
 ### Regular Season
+
+* LONG DISTANCE ANALYSIS + AVERAGE DISTANCE ARC: Analysis of long distance shooters ([Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/long_distance_shooters.ipynb)) and average [3pt arc](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/three_pt_distance_new.ipynb)
+
+* CALCULATING RIM DETERRENEC AND BLOCK EFFICIENCY: How to calculate Rim deterrence from play-by-play data + block efficiency(recovery): [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/block_efficiency_rim_deterrence.ipynb)
+
+* GOBERT ANALYSIS: Big analysis on Gobert's dominance on defense: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/gobert_jazz.ipynb)
+
+* ASSIST CHART: Simple assist chare with share of total shots in that area: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/assist_chart.ipynb)
+
+* DENVER NUGGETS' ANALYSIS: Various charts regarding Denver Nuggets: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/denver_nuggets.ipynb)
+
+* BIGGEST RA SHARE OF SHOTS: Table which shows Zion's dominant numbers: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/RA_distribution.ipynb)
+
+* CLUTCH ANALYSIS: Various tables and "face scatters" for clutch data: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/best_in_clutch.ipynb)
+
+* HUSTLE landscape: Simple scatter for hustle data: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/hustle.ipynb) 
+
+* ALL SHOTS BY KOBE: Every shot generated into a gif per season level: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/kobe_all.ipynb)
+
+* PACE/TS/FT per seasons: BBRef scraper plus line charts for [TS%, Pace, FGA per game per seasons](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/pace_per_seasons.ipynb) and for [FTAs per game per season](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/free_throws_seasons.ipynb)
+
+* TEAM EFFICIENCY LANDSCAPE: Goldsberry-like plot with Net rating landscape: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/efficiency_landscape_teams.ipynb)
+
+* GAME LENGTH ANALYZER: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/game_length.ipynb) -> checking out what part of the game lengthens the game
+
+* PLAYER's FACE IMAGE DOWNLOADER: Simple script which downloads all active players' images (based on nba_api package): [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/get_player_imgs.ipynb)
+
+* STINT FINDER: Notebook which [finds the stint for player - when and how long he's on court](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/pbp_analysis/eff.ipynb)
+
+* PLAY-BY-PLAY DOWNLOADER AND (partial) PARSER: Notebook which [downloads play-by-play data](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/pbp_analysis/stint_finder.ipynb) and finds when player is on/off court
 
 * [Biggest difference in opponent's wide open triples vs all teams and vs target teams](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2020_21_season/opp_wide_shot_outlier.ipynb) - full post available at my [website](https://www.bballytics.co/en/2021/01/09/unlucky-start.html)
 

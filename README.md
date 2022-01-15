@@ -8,6 +8,8 @@ Current mini "projects":
 
 ## 2021-22 Season
 
+* Simple plot which checks if there is correlation between box outs and DRB%: [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/box_outs_drb_pct.ipynb)
+
 * Shotchart [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/shotcharts.ipynb) with one new plot type - change of shot frequency in each zone
 
 * Finding which players get more of real assists, and which get more fake assists: [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/real_fake_assists.ipynb) - also uses pbp data

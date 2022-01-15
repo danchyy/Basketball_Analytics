@@ -6,6 +6,15 @@ All code is written in Python using the Jupyter Notebooks which allow live previ
 
 Current mini "projects":
 
+## 2021-22 Season
+
+* Shotchart [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/shotcharts.ipynb) with one new plot type - change of shot frequency in each zone
+
+* Finding which players get more of real assists, and which get more fake assists: [notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/real_fake_assists.ipynb) - also uses pbp data
+
+* [Notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/assist_combos.ipynb) which finds assist combos (in this case, alley oop partners), it uses data retrieved through [Play-by-Play downloader](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2021_22_season/pbp_downloader.ipynb)
+
+
 ## 2020-21 Season
 
 ### Playoffs
